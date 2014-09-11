@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="Keywords" content="台安大众网"/>
+    <meta name="Description" content="台安大众网"/>
+    <title>台安大众网</title>
+    <link rel="stylesheet" href="{{STATIC_URL}}css/base.css"/>
+    <link rel="stylesheet" href="{{STATIC_URL}}css/jquery-ui-1.10.4.min.css"/>
+    <link rel="stylesheet" href="{{STATIC_URL}}css/multi.css"/>
+    <script src="{{STATIC_URL}}js/jquery-2.0.3.min.js"></script>
+    <script src="{{STATIC_URL}}js/jquery-ui-1.10.4.min.js"></script>
+    <script src="{{STATIC_URL}}js/base.js"></script>
+   <script src="{{STATIC_URL}}js/multi.js"></script>
+  </head>
+  <body>
+    <header>
+      <div id="menu">
+        <span class="nameA">台安大众网</span>
+        <nav>          
+          <ul class="ulA">
+            <a href="/"><li class="shou">首页</li></a>
+            <a href="/mode/"><li class="te">行业导航</li></a>
+            <a href="/sale/"><li class="te">绿色食材</li></a>
+　　　　　 　     <a href="/multi/"><li class="duo">视频</li></a>
+            <a href="/te/"><li class="te">微信平台</li></a>
+　　　　　       <a href="/life/"><li class="te">生活信息</li></a>
+            <a href="/faci/"><li class="te">便民信息</li></a>                                      
+            <a href="/location/"><li class="te">地理定位</li></a>
+          </ul> 
+        </nav>
+      </div>
+    </header>
+
+    <section>
+         <video id="viA" width="978px" height="550px" controls="controls">
+     <source src="{{MEDIA_URL}}video/v1.webm" type="video/webm" />
+     <source src="{{MEDIA_URL}}video/v1.mp4" type="video/mp4" />
+     请升级浏览器
+   </video>
+    
+   <video id="viB" width="978px" height="550px" controls="controls">
+     <source src="{{MEDIA_URL}}video/v2.webm" type="video/webm" />
+     <source src="{{MEDIA_URL}}video/v2.mp4" type="video/mp4" />
+     请升级浏览器
+   </video>
+
+   <video id="viC" width="978px" height="550px" controls="controls">
+     <source src="{{MEDIA_URL}}video/v3.webm" type="video/webm" />
+     <source src="{{MEDIA_URL}}video/v3.mp4" type="video/mp4" />
+     请升级浏览器
+   </video> 
+
+   <video id="viD" width="978px" height="550px" controls="controls">
+     <source src="{{MEDIA_URL}}video/v4.webm" type="video/webm" />
+     <source src="{{MEDIA_URL}}video/v4.mp4" type="video/mp4" />
+     请升级浏览器
+   </video>     
+  
+   <video id="viE" width="978px" height="550px" controls="controls">
+     <source src="{{MEDIA_URL}}video/v5.webm" type="video/webm" />
+     <source src="{{MEDIA_URL}}video/v5.mp4" type="video/mp4" />
+     请升级浏览器
+   </video>       
+
+   <video id="viF" width="978px" height="550px" controls="controls">
+     <source src="{{MEDIA_URL}}video/v6.webm" type="video/webm" />
+     <source src="{{MEDIA_URL}}video/v6.mp4" type="video/mp4" />
+     请升级浏览器
+   </video>
+       
+   <div id="ope">
+     <div id="0">
+       <img class="imgM" src="{{MEDIA_URL}}image/multi/f1.jpg"/>
+     </div>
+     <div id="1">
+       <img class="imgM" src="{{MEDIA_URL}}image/multi/f2.jpg"/>
+     </div>
+     <div id="2">
+       <img class="imgM" src="{{MEDIA_URL}}image/multi/f3.jpg"/>
+     </div>  
+     <div id="3">
+       <img class="imgM" src="{{MEDIA_URL}}image/multi/f4.jpg"/>
+     </div>
+     <div id="4">
+       <img class="imgM" src="{{MEDIA_URL}}image/multi/f5.jpg"/>
+     </div>
+     <div id="5">
+       <img class="imgM" src="{{MEDIA_URL}}image/multi/f6.jpg"/>
+     </div>
+   </div>
+   <script>
+     $(function(){
+       function random(min,max){
+         return Math.floor(min+Math.random()*(max-min));
+       }    
+       var oVi=$('video');
+       var i=random(0,6);
+       oVi.eq(i).show();
+       oVi[i].play();
+       var s=[$(window).width()]/1353;
+       $('section').css('width',1145*s);
+       $('section').css('margin-top',30*s);
+       var w=978*s,
+       h=w*9/16;
+       $('video').css('width',w);
+       $('video').css('height',h);
+       $('#ope').css('width',164*s);
+       $('#ope div').css('width',160*s);
+       $('#ope div').css('height',90*s);
+       $('.imgM').css('width',160*s);
+       $('.imgM').css('height',90*s);         
+     }) 
+   </script>
+      <div class="clearA"></div>
+    </section>
+
+    <script>
+      $(function(){
+        var s=[$(window).width()]/1353;
+        $('body').css('font',16*s);
+        $('#menu').css('width',1353*s);
+        $('#menu').css('font-size',17*s);
+        $('.nameA').css('margin-left',60*s);
+        $('.nameA').css('font-size',26*s);
+        $('nav').css('margin-left',95*s);
+        $('nav').css('width',1000*s);
+        $('.shou').css('width',75*s);
+        $('.duo').css('width',90*s);
+        $('.te').css('width',103*s);
+        $('footer').css('height',40*s);
+        $('#foot').css('width',1353*s);
+        $('#foot').css('font-size',15*s);
+        $('#foot').css('height',40*s);                       
+        $('#foot div').css('margin-top',10*s);
+        $('#bei').css('margin-left',200*s);
+        $('.aa').css('margin-left',150*s);
+        $('.aa').css('width',86*s);
+        $('.aa').css('height',17*s);                        
+        $('.bb').css('width',86*s);
+        $('.bb').css('height',17*s);                      
+      })                        
+    </script>
+
+　　  <footer>
+      <div id="foot">
+        <div class="aa"><a href="/intro/">网站介绍</a></div>
+        <div class="bb"><a href="/extend/">推广服务</a></div> 
+        <div class="bb"><a href="/message/">友情留言</a></div>
+        <div class="bb"><a href="/declare/">免责声明</a></div>
+        <div id="bb" class="bb"><a href="/contact/">联系我们</a></div>
+        <div id="bei">Copyright © 2014 台安大众网&nbsp;&nbsp;&nbsp;&nbsp;辽ICP备10204930号-6</div>
+        <div id="tong">
+          <script>var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1000251679'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1000251679%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+        </div>                           
+      </div>
+    </footer>   
+  </body>
+</html>

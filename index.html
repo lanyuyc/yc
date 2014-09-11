@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="Keywords" content="台安大众网"/>
+    <meta name="Description" content="台安大众网"/>
+    <title>台安大众网</title>
+    <link rel="stylesheet" href="{{STATIC_URL}}css/base.css"/>
+    <link rel="stylesheet" href="{{STATIC_URL}}css/jquery-ui-1.10.4.min.css"/>
+    <link rel="stylesheet" href="{{STATIC_URL}}css/index.css"/>
+    <script src="{{STATIC_URL}}js/jquery-2.0.3.min.js"></script>
+    <script src="{{STATIC_URL}}js/jquery-ui-1.10.4.min.js"></script>
+    <script src="{{STATIC_URL}}js/base.js"></script>
+   <script src="{{STATIC_URL}}js/index.js"></script>
+
+  </head>
+  <body>
+    <header>
+      <div id="menu">
+        <span class="nameA">台安大众网</span>
+        <nav>          
+          <ul class="ulA">
+            <a href="/"><li class="shou">首页</li></a>
+            <a href="/mode/"><li class="te">行业导航</li></a>
+            <a href="/sale/"><li class="te">绿色食材</li></a>
+　　　　　 　     <a href="/multi/"><li class="duo">视频</li></a>
+            <a href="/te/"><li class="te">微信平台</li></a>
+　　　　　       <a href="/life/"><li class="te">生活信息</li></a>
+            <a href="/faci/"><li class="te">便民信息</li></a>                                      
+            <a href="/location/"><li class="te">地理定位</li></a>
+          </ul> 
+        </nav>
+      </div>
+    </header>
+
+    <section>
+         <div id="l"></div>
+   <div id="r">
+     <div id="1">
+       <img class='imgS' src="{{MEDIA_URL}}image/index/view1.jpg"/>
+     </div>
+     <div id="2">
+       <img class='imgS' src="{{MEDIA_URL}}image/index/view2.jpg"/>
+     </div>
+     <div id="3">
+       <img class='imgS' src="{{MEDIA_URL}}image/index/view3.jpg"/>
+     </div>
+     <div id="4">
+       <img class='imgS' src="{{MEDIA_URL}}image/index/view4.jpg"/>
+     </div>
+     <div id="5">
+       <img class='imgS' src="{{MEDIA_URL}}image/index/view5.jpg"/>
+     </div>
+     <div id="6">
+       <img class='imgS' src="{{MEDIA_URL}}image/index/view6.jpg"/>
+     </div>
+     <div id="7">
+       <img class='imgS' src="{{MEDIA_URL}}image/index/view7.jpg"/>
+     </div>
+     <div id="8">
+       <img class='imgS' src="{{MEDIA_URL}}image/index/view8.jpg"/>
+     </div>
+     <div id="9">
+       <img class='imgS' src="{{MEDIA_URL}}image/index/view9.jpg"/>
+     </div>
+     <div id="10">
+       <img class='imgS' src="{{MEDIA_URL}}image/index/view10.jpg"/>
+     </div>
+     <div id="11">
+       <img class='imgS' src="{{MEDIA_URL}}image/index/view11.jpg"/>
+     </div>
+     <div id="12">
+       <img class='imgS' src="{{MEDIA_URL}}image/index/view12.jpg"/>
+     </div>
+   </div>
+
+   <script>
+     $(function(){
+       var s=[$(window).width()]/1366;
+       $('section').css('width',1310*s);
+       $('section').css('margin-top',20*s);
+       $('#l').css('width',978*s);
+       $('#l').css('height',550*s);
+       $('#r').css('width',328*s);
+       $('#r div').css('width',160*s);
+       $('#r div').css('height',90*s);
+       $('.imgS').css('width',160*s);
+       $('.imgS').css('height',90*s);  
+       var arrUrl=['/fei','/','/jin','/mo','/aijia','/','/','/','/hengtong','/sheng','/','/qi'];
+       function random(min,max){
+         return Math.floor(min+Math.random()*(max-min));
+       }        
+       var i=random(1,13);
+       var oImg=$("<a href='"+arrUrl[i-1]+"'><img class='imgBig' src='{{MEDIA_URL}}image/index/view"+i+".jpg'/></a>");
+       $('#l').append(oImg);
+       $('.imgBig').css('width',978*s);
+       $('.imgBig').css('height',550*s);
+
+       $('#r div').click(function(){
+         var g=$(this).attr('id');
+         var oImg=$("<a href='"+arrUrl[g-1]+"'><img class='imgBig' src='{{MEDIA_URL}}image/index/view"+g+".jpg'/></a>");
+         $('#l').empty();
+         $('#l').append(oImg);
+         $('.imgBig').css('width',978*s);
+         $('.imgBig').css('height',550*s);
+       })
+     })
+   </script>
+
+      <div class="clearA"></div>
+    </section>
+
+    <script>
+      $(function(){
+        var s=[$(window).width()]/1353;
+        $('body').css('font',16*s);
+        $('#menu').css('width',1353*s);
+        $('#menu').css('font-size',17*s);
+        $('.nameA').css('margin-left',60*s);
+        $('.nameA').css('font-size',26*s);
+        $('nav').css('margin-left',95*s);
+        $('nav').css('width',1000*s);
+        $('.shou').css('width',75*s);
+        $('.duo').css('width',90*s);
+        $('.te').css('width',103*s);
+        $('footer').css('height',40*s);
+        $('#foot').css('width',1353*s);
+        $('#foot').css('font-size',15*s);
+        $('#foot').css('height',40*s);                       
+        $('#foot div').css('margin-top',10*s);
+        $('#bei').css('margin-left',200*s);
+        $('.aa').css('margin-left',150*s);
+        $('.aa').css('width',86*s);
+        $('.aa').css('height',17*s);                        
+        $('.bb').css('width',86*s);
+        $('.bb').css('height',17*s);                      
+      })                        
+    </script>
+
+　　  <footer>
+      <div id="foot">
+        <div class="aa"><a href="/intro/">网站介绍</a></div>
+        <div class="bb"><a href="/extend/">推广服务</a></div> 
+        <div class="bb"><a href="/message/">友情留言</a></div>
+        <div class="bb"><a href="/declare/">免责声明</a></div>
+        <div id="bb" class="bb"><a href="/contact/">联系我们</a></div>
+        <div id="bei">Copyright © 2014 台安大众网&nbsp;&nbsp;&nbsp;&nbsp;辽ICP备10204930号-6</div>
+        <div id="tong">
+          <script>var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1000251679'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1000251679%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+        </div>                           
+      </div>
+    </footer>   
+  </body>
+</html>
+
+
+
+
+
+
+
+
+

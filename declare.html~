@@ -2,9 +2,9 @@
 <html lang="zh-cn">
   <head>
     <meta charset="utf-8"/>
-    <meta name="Keywords" content="台安大众网"/>
-    <meta name="Description" content="台安大众网"/>
-    <title>台安大众网</title>
+    <meta name="Keywords" content="沈阳易成网"/>
+    <meta name="Description" content="沈阳易成网"/>
+    <title>沈阳易成网</title>
     <link rel="stylesheet" href="http://lanyuyc.github.io/yc/css/base.css"/>
     <link rel="stylesheet" href="http://lanyuyc.github.io/yc/css/jquery-ui-1.10.4.min.css"/>
     <link rel="stylesheet" type="text/css" href="http://lanyuyc.github.io/yc/css/contact.css"/>
@@ -15,7 +15,7 @@
   <body>
     <header>
       <div id="menu">
-        <span class="nameA">台安大众网</span>
+        <span class="nameA">沈阳易成网</span>
         <nav>          
           <ul class="ulA">
             <a href="http://lanyuyc.github.io/yc/"><li class="shou">首页</li></a>
@@ -35,8 +35,8 @@
    <div id="declare">
         <h4>免责声明</h4><br/>
 
-        <p>1、“台安大众网”部分文章信息来源于网络转载是出于传递更多信息之目的，并不意味着赞同其观点或证实其内容的真实性。如其他媒体、网站或个人从本网下载使用，必须保留本网注明的“稿件来源”，并自负版权等法律责任。如对稿件内容有疑议，请及时与我们联系。</p>
-        <p>2、“台安大众网”致力于提供合理、准确、完整的资讯信息，但不保证信息的合理性、准确性和完整性，且不对因信息的不合理、不准确或遗漏导致的任何损失或损害承担责任。本网站所有信息仅供参考，不做交易和服务的根据， 如自行使用本网站资料发生偏差，本网站概不负责，亦不负任何法律责任。</p>
+        <p>1、“沈阳易成网”部分文章信息来源于网络转载是出于传递更多信息之目的，并不意味着赞同其观点或证实其内容的真实性。如其他媒体、网站或个人从本网下载使用，必须保留本网注明的“稿件来源”，并自负版权等法律责任。如对稿件内容有疑议，请及时与我们联系。</p>
+        <p>2、“沈阳易成网”致力于提供合理、准确、完整的资讯信息，但不保证信息的合理性、准确性和完整性，且不对因信息的不合理、不准确或遗漏导致的任何损失或损害承担责任。本网站所有信息仅供参考，不做交易和服务的根据， 如自行使用本网站资料发生偏差，本网站概不负责，亦不负任何法律责任。</p>
         <p>3、任何由于黑客攻击、计算机病毒侵入或发作、因政府管制而造成的暂时性关闭等影响网络正常经营的不可抗力而造成的损失，本网站均得免责。由于与本网站链接的其它网站所造成之个人资料泄露及由此而导致的任何法律争议和后果，本网站均得免责。</p>
         <p>4、本网站如因系统维护或升级而需暂停服务时，将事先公告。若因线路及非本公司控制范围外的硬件故障或其它不可抗力而导致暂停服务，于暂停服务期间造成的一切不便与损失，本网站不负任何责任。</p>
         <p>5、本网站使用者因为违反本声明的规定而触犯中华人民共和国法律的，一切后果自己负责，本网站不承担任何责任。</p>
@@ -85,8 +85,8 @@
         <div class="bb"><a href="http://lanyuyc.github.io/yc/extend">推广服务</a></div> 
         <div class="bb"><a href="http://lanyuyc.github.io/yc/message">友情留言</a></div>
         <div class="bb"><a href="http://lanyuyc.github.io/yc/declare">免责声明</a></div>
-        <div id="bb" class="bb"><a href="/contact">联系我们</a></div>
-        <div id="bei">Copyright © 2014 台安大众网&nbsp;&nbsp;&nbsp;&nbsp;辽ICP备10204930号-6</div>
+        <div id="bb" class="bb"><a href="http://lanyuyc.github.io/yc/contact">联系我们</a></div>
+        <div id="bei">Copyright © 2014 沈阳易成网&nbsp;&nbsp;&nbsp;&nbsp;辽ICP备10204930号-6</div>
         <div id="tong">
           <script>var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1000251679'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1000251679%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));
           </script>

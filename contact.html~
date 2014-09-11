@@ -2,9 +2,9 @@
 <html lang="zh-cn">
   <head>
     <meta charset="utf-8"/>
-    <meta name="Keywords" content="台安大众网"/>
-    <meta name="Description" content="台安大众网"/>
-    <title>台安大众网</title>
+    <meta name="Keywords" content="沈阳易成网"/>
+    <meta name="Description" content="沈阳易成网"/>
+    <title>沈阳易成网</title>
     <link rel="stylesheet" href="http://lanyuyc.github.io/yc/css/base.css"/>
     <link rel="stylesheet" href="http://lanyuyc.github.io/yc/css/jquery-ui-1.10.4.min.css"/>
     <link rel="stylesheet" type="text/css" href="http://lanyuyc.github.io/yc/css/contact.css"/>
@@ -15,7 +15,7 @@
   <body>
     <header>
       <div id="menu">
-        <span class="nameA">台安大众网</span>
+        <span class="nameA">沈阳易成网</span>
         <nav>          
           <ul class="ulA">
             <a href="http://lanyuyc.github.io/yc/"><li class="shou">首页</li></a>
@@ -44,7 +44,7 @@
             <p>QQ：1377756027&nbsp;&nbsp;&nbsp;&nbsp;461288597(技术)</p><br/>
         </div>
         <div id="substation">
-             <h4>台安大众网分站</h4><br/>                 
+             <h4>沈阳易成网分站</h4><br/>                 
 
              <div id="office">洪家办事处：于站长<br/>新台办事处：王站长<br/>富家办事处：郑站长<br/>新华办事处：郑站长<br/>大张办事处：王站长<br/>新开办事处：刘站长<br/>桑林办事处：唐站长<br/>达牛办事处：张站长<br/>西佛办事处：张站长<br/>黄沙办事处：高站长<br/>西平办事处：齐站长<br/>桓洞办事处：孙站长<br/>高力办事处：陈站长<br/>韭台办事处：齐站长</div>
 
@@ -97,7 +97,7 @@
         <div class="bb"><a href="http://lanyuyc.github.io/yc/message">友情留言</a></div>
         <div class="bb"><a href="http://lanyuyc.github.io/yc/declare">免责声明</a></div>
         <div id="bb" class="bb"><a href="http://lanyuyc.github.io/yc/contact">联系我们</a></div>
-        <div id="bei">Copyright © 2014 台安大众网&nbsp;&nbsp;&nbsp;&nbsp;辽ICP备10204930号-6</div>
+        <div id="bei">Copyright © 2014 沈阳易成网&nbsp;&nbsp;&nbsp;&nbsp;辽ICP备10204930号-6</div>
         <div id="tong">
           <script>var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1000251679'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1000251679%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));
           </script>

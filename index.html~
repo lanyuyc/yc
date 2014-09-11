@@ -20,14 +20,14 @@
         <span class="nameA">台安大众网</span>
         <nav>          
           <ul class="ulA">
-            <a href="/"><li class="shou">首页</li></a>
-            <a href="/mode/"><li class="te">行业导航</li></a>
-            <a href="/sale/"><li class="te">绿色食材</li></a>
-　　　　　 　     <a href="/multi/"><li class="duo">视频</li></a>
-            <a href="/te/"><li class="te">微信平台</li></a>
-　　　　　       <a href="/life/"><li class="te">生活信息</li></a>
-            <a href="/faci/"><li class="te">便民信息</li></a>                                      
-            <a href="/location/"><li class="te">地理定位</li></a>
+            <a href="http://lanyuyc.github.io/yc/"><li class="shou">首页</li></a>
+            <a href="http://lanyuyc.github.io/yc/mode"><li class="te">行业导航</li></a>
+            <a href="http://lanyuyc.github.io/yc/sale"><li class="te">绿色食材</li></a>
+　　　　　 　     <a href="http://lanyuyc.github.io/yc/multi"><li class="duo">视频</li></a>
+            <a href="http://lanyuyc.github.io/yc/te"><li class="te">微信平台</li></a>
+　　　　　       <a href="http://lanyuyc.github.io/yc/life"><li class="te">生活信息</li></a>
+            <a href="http://lanyuyc.github.io/yc/faci"><li class="te">便民信息</li></a>                                      
+            <a href="http://lanyuyc.github.io/yc/location"><li class="te">地理定位</li></a>
           </ul> 
         </nav>
       </div>

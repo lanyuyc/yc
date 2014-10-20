@@ -5,13 +5,13 @@
     <meta name="Keywords" content="沈阳易成网"/>
     <meta name="Description" content="沈阳易成网"/>
     <title>沈阳易成网</title>
-    <link rel="stylesheet" href="/yc/css/base.css"/>
-    <link rel="stylesheet" href="/yc/css/jquery-ui-1.10.4.min.css"/>
-    <link rel="stylesheet" href="/yc/css/index.css"/>
-    <script src="/yc/js/jquery-2.0.3.min.js"></script>
-    <script src="/yc/js/jquery-ui-1.10.4.min.js"></script>
-    <script src="/yc/js/base.js"></script>
-    <script src="/yc/js/index.js"></script>
+    <link rel="stylesheet" href="{{ site.url }}/css/base.css"/>
+    <link rel="stylesheet" href="{{ site.url }}/css/jquery-ui-1.10.4.min.css"/>
+    <link rel="stylesheet" href="{{ site.url }}/css/index.css"/>
+    <script src="{{ site.url }}/js/jquery-2.0.3.min.js"></script>
+    <script src="{{ site.url }}/js/jquery-ui-1.10.4.min.js"></script>
+    <script src="{{ site.url }}/js/base.js"></script>
+    <script src="{{ site.url }}/js/index.js"></script>
 
   </head>
   <body>
@@ -20,14 +20,14 @@
         <span class="nameA">沈阳易成网</span>
         <nav>          
           <ul class="ulA">
-            <a href="/yc/"><li class="shou">首页</li></a>
-            <a href="/yc/mode"><li class="te">行业导航</li></a>
-            <a href="/yc/sale"><li class="te">绿色食材</li></a>
-　　　　　 　     <a href="/yc/multi"><li class="duo">视频</li></a>
-            <a href="/yc/te"><li class="te">微信平台</li></a>
-　　　　　       <a href="/yc/life"><li class="te">生活信息</li></a>
-            <a href="/yc/faci"><li class="te">便民信息</li></a>                                      
-            <a href="/yc/location"><li class="te">地理定位</li></a>
+            <a href="{{ site.url }}/"><li class="shou">首页</li></a>
+            <a href="{{ site.url }}/mode"><li class="te">行业导航</li></a>
+            <a href="{{ site.url }}/sale"><li class="te">绿色食材</li></a>
+　　　　　 　     <a href="{{ site.url }}/multi"><li class="duo">视频</li></a>
+            <a href="{{ site.url }}/te"><li class="te">微信平台</li></a>
+　　　　　       <a href="{{ site.url }}/life"><li class="te">生活信息</li></a>
+            <a href="{{ site.url }}/faci"><li class="te">便民信息</li></a>                                      
+            <a href="{{ site.url }}/location"><li class="te">地理定位</li></a>
           </ul> 
         </nav>
       </div>
@@ -37,40 +37,40 @@
          <div id="l"></div>
    <div id="r">
      <div id="1">
-       <img class='imgS' src="/yc/image/index/view1.jpg"/>
+       <img class='imgS' src="{{ site.url }}/image/index/view1.jpg"/>
      </div>
      <div id="2">
-       <img class='imgS' src="/yc/image/index/view2.jpg"/>
+       <img class='imgS' src="{{ site.url }}/image/index/view2.jpg"/>
      </div>
      <div id="3">
-       <img class='imgS' src="/yc/image/index/view3.jpg"/>
+       <img class='imgS' src="{{ site.url }}/image/index/view3.jpg"/>
      </div>
      <div id="4">
-       <img class='imgS' src="/yc/image/index/view4.jpg"/>
+       <img class='imgS' src="{{ site.url }}/image/index/view4.jpg"/>
      </div>
      <div id="5">
-       <img class='imgS' src="/yc/image/index/view5.jpg"/>
+       <img class='imgS' src="{{ site.url }}/image/index/view5.jpg"/>
      </div>
      <div id="6">
-       <img class='imgS' src="/yc/image/index/view6.jpg"/>
+       <img class='imgS' src="{{ site.url }}/image/index/view6.jpg"/>
      </div>
      <div id="7">
-       <img class='imgS' src="/yc/image/index/view7.jpg"/>
+       <img class='imgS' src="{{ site.url }}/image/index/view7.jpg"/>
      </div>
      <div id="8">
-       <img class='imgS' src="/yc/image/index/view8.jpg"/>
+       <img class='imgS' src="{{ site.url }}/image/index/view8.jpg"/>
      </div>
      <div id="9">
-       <img class='imgS' src="/yc/image/index/view9.jpg"/>
+       <img class='imgS' src="{{ site.url }}/image/index/view9.jpg"/>
      </div>
      <div id="10">
-       <img class='imgS' src="/yc/image/index/view10.jpg"/>
+       <img class='imgS' src="{{ site.url }}/image/index/view10.jpg"/>
      </div>
      <div id="11">
-       <img class='imgS' src="/yc/image/index/view11.jpg"/>
+       <img class='imgS' src="{{ site.url }}/image/index/view11.jpg"/>
      </div>
      <div id="12">
-       <img class='imgS' src="/yc/image/index/view12.jpg"/>
+       <img class='imgS' src="{{ site.url }}/image/index/view12.jpg"/>
      </div>
    </div>
 
@@ -91,14 +91,14 @@
          return Math.floor(min+Math.random()*(max-min));
        }        
        var i=random(1,13);
-       var oImg=$("<a href='"+arrUrl[i-1]+"'><img class='imgBig' src='/yc/image/index/view"+i+".jpg'/></a>");
+       var oImg=$("<a href='"+arrUrl[i-1]+"'><img class='imgBig' src='{{ site.url }}/image/index/view"+i+".jpg'/></a>");
        $('#l').append(oImg);
        $('.imgBig').css('width',978*s);
        $('.imgBig').css('height',550*s);
 
        $('#r div').click(function(){
          var g=$(this).attr('id');
-         var oImg=$("<a href='"+arrUrl[g-1]+"'><img class='imgBig' src='/yc/image/index/view"+g+".jpg'/></a>");
+         var oImg=$("<a href='"+arrUrl[g-1]+"'><img class='imgBig' src='{{ site.url }}/image/index/view"+g+".jpg'/></a>");
          $('#l').empty();
          $('#l').append(oImg);
          $('.imgBig').css('width',978*s);
@@ -139,11 +139,11 @@
 
 　　  <footer>
       <div id="foot">
-        <div class="aa"><a href="/yc/intro">网站介绍</a></div>
-        <div class="bb"><a href="/yc/extend">推广服务</a></div> 
-        <div class="bb"><a href="/yc/message">友情留言</a></div>
-        <div class="bb"><a href="/yc/declare">免责声明</a></div>
-        <div id="bb" class="bb"><a href="/yc/contact">联系我们</a></div>
+        <div class="aa"><a href="{{ site.url }}/intro">网站介绍</a></div>
+        <div class="bb"><a href="{{ site.url }}/extend">推广服务</a></div> 
+        <div class="bb"><a href="{{ site.url }}/message">友情留言</a></div>
+        <div class="bb"><a href="{{ site.url }}/declare">免责声明</a></div>
+        <div id="bb" class="bb"><a href="{{ site.url }}/contact">联系我们</a></div>
         <div id="bei">Copyright © 2014 沈阳易成网&nbsp;&nbsp;&nbsp;&nbsp;辽ICP备10204930号-6</div>
         <div id="tong">
           <script>var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1000251679'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1000251679%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));

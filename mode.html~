@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="Keywords" content="沈阳易成网"/>
+    <meta name="Description" content="沈阳易成网"/>
+    <title>沈阳易成网</title>
+    <link rel="stylesheet" href="/yc/css/base.css"/>
+    <link rel="stylesheet" href="/yc/css/jquery-ui-1.10.4.min.css"/>
+    <link rel="stylesheet" href="/yc/css/mode.css"/>
+    <script src="/yc/js/jquery-2.0.3.min.js"></script>
+    <script src="/yc/js/jquery-ui-1.10.4.min.js"></script>
+    <script src="/yc/js/base.js"></script>
+    <script src="/yc/js/mode.js"></script>
+  </head>
+  <body>
+    <header>
+      <div id="menu">
+        <span class="nameA">沈阳易成网</span>
+        <nav>          
+          <ul class="ulA">
+            <a href="/yc/"><li class="shou">首页</li></a>
+            <a href="/yc/mode"><li class="te">行业导航</li></a>
+            <a href="/yc/sale"><li class="te">绿色食材</li></a>
+　　　　　 　     <a href="/yc/multi"><li class="duo">视频</li></a>
+            <a href="/yc/te"><li class="te">微信平台</li></a>
+　　　　　       <a href="/yc/life"><li class="te">生活信息</li></a>
+            <a href="/yc/faci"><li class="te">便民信息</li></a>                                      
+            <a href="/yc/location"><li class="te">地理定位</li></a>
+          </ul> 
+        </nav>
+      </div>
+    </header>
+
+    <section>
+         <div id="butt">
+     <div id="i" class="3">家居</div>
+     <div id="f" class="0">美食</div>
+     <div id="g" class="1">服饰</div>
+     <div id="o" class="9">婚庆摄影</div>
+     <div id="q" class="11">电脑通讯</div>
+     <div id="h" class="2">珠宝饰品</div>
+     <div id="k" class="5">休闲娱乐</div>
+     <div id="l" class="6">旅游</div>
+     <div id="m" class="7">汽车</div>
+     <div id="n" class="8">楼盘</div>
+   </div>
+   <div id="live"></div>
+
+   <script>
+     $(function(){
+       var arrF=['可立亚炭火烤肉','圣士烘焙','粤菜馆','粤菜馆','粤菜馆','粤菜馆','粤菜馆','粤菜馆','粤菜馆','粤菜馆','粤菜馆','粤菜馆'];
+
+       var arrG=['梦特娇','梦特娇','梦特娇','梦特娇','梦特娇','梦特娇','梦特娇','梦特娇','梦特娇','梦特娇','梦特娇','梦特娇'];
+
+       var arrH=['周大福珠宝','周大福珠宝','周大福珠宝','周大福珠宝','周大福珠宝','周大福珠宝','周大福珠宝','周大福珠宝','周大福珠宝','周大福珠宝','周大福珠宝','周大福珠宝'];
+
+       var arrI=['菲林格尔地板','NATUZZI','NATUZZI','NATUZZI','NATUZZI','NATUZZI','NATUZZI','NATUZZI','NATUZZI','NATUZZI','NATUZZI','NATUZZI'];
+
+       var arrJ=['宠物','宠物','宠物','盛河宠物会馆','宠物','宠物','宠物','宠物','宠物','宠物','宠物','宠物'];
+
+       var arrK=['鞍山市立山区华韵琴行','台安雅芳宿根地被花卉','台安力宁苗圃','休闲','休闲','休闲','休闲','休闲','休闲','休闲','休闲','休闲'];
+
+       var arrL=['恒通国际旅行社','旅游','旅游','旅游','旅游','旅游','旅游','旅游','旅游','旅游','旅游','旅游'];
+
+       var arrM=['安程汽车租赁','鞍山添赢汽车配件制造有限公司','台安重型汽贸','大厦摩托车城','汽车','汽车','汽车','汽车','汽车','汽车','汽车','汽车'];
+      
+       var arrN=['鞍山天一融盛房地产开发有限公司','楼盘','楼盘','楼盘','楼盘','楼盘','楼盘','楼盘','楼盘','楼盘','楼盘','楼盘'];
+
+       var arrO=['台安僖缘庆典','婚庆','婚庆','婚庆','婚庆','婚庆','婚庆','婚庆','婚庆','婚庆','婚庆','婚庆'];
+
+       var arrP=['鲜花礼品','鲜花礼品','鲜花礼品','鲜花礼品','鲜花礼品','鲜花礼品','鲜花礼品','鲜花礼品','鲜花礼品','鲜花礼品','鲜花礼品','鲜花礼品'];
+
+       var arrQ=['400电话','企业彩铃','电脑','电脑','电脑','电脑','电脑','电脑','电脑','电脑','电脑','电脑'];
+
+       var arrR=['美容美发','美容美发','美容美发','美容美发','美容美发','美容美发','美容美发','美容美发','美容美发','美容美发','美容美发','美容美发'];
+
+       var arr=[arrF,arrG,arrH,arrI,arrJ,arrK,arrL,arrM,arrN,arrO,arrP,arrQ,arrR];
+       
+       var page=[['/ke','/sheng','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode'],['/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode'],['/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode'],['/fei','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode'],['/yc/mode','/yc/mode','/yc/mode','shenghe','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode'],['http://www.ashyqh.com/','/yaFangIndex','/liNingIndex','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode'],['/hengtong','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode'],['/ancheng','http://lanyucx.github.io/ty','http://lanyuzq.github.io/zq','/mo','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode'],['http://www.astyrs.com.cn/','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode'],['/xiyuan','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode'],['/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode'],['/dianPro','/qi','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode'],['/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode','/yc/mode']];
+
+       function mode(image,arr,arrUrl){
+         for(var i=1;i<arrF.length+1;i++){
+           var oDiv=$("<div><a href='"+arrUrl[i-1]+"'><img class='imgMode' src='/yc/image/mode/"+image+i+".jpg'/></a><br/>"+arr[i-1]+"</div>");
+           $('#live').append(oDiv);        
+         }
+       }
+       mode('i',arrI,page[3]);
+       $('#i').css('background','#E5E2B1');
+      
+       $('#butt div').click(function(){
+         $('#live').empty();
+         mode($(this).attr('id'),arr[$(this).attr('class')],page[$(this).attr('class')]);
+         $('#butt div').css('background','#F6F7D9');
+         $(this).css('background','#E5E2B1');
+         size();
+       });
+
+       size();
+     })
+   </script>
+      <div class="clearA"></div>
+    </section>
+
+    <script>
+      $(function(){
+        var s=[$(window).width()]/1353;
+        $('body').css('font',16*s);
+        $('#menu').css('width',1353*s);
+        $('#menu').css('font-size',17*s);
+        $('.nameA').css('margin-left',60*s);
+        $('.nameA').css('font-size',26*s);
+        $('nav').css('margin-left',95*s);
+        $('nav').css('width',1000*s);
+        $('.shou').css('width',75*s);
+        $('.duo').css('width',90*s);
+        $('.te').css('width',103*s);
+        $('footer').css('height',40*s);
+        $('#foot').css('width',1353*s);
+        $('#foot').css('font-size',15*s);
+        $('#foot').css('height',40*s);                       
+        $('#foot div').css('margin-top',10*s);
+        $('#bei').css('margin-left',200*s);
+        $('.aa').css('margin-left',150*s);
+        $('.aa').css('width',86*s);
+        $('.aa').css('height',17*s);                        
+        $('.bb').css('width',86*s);
+        $('.bb').css('height',17*s);                      
+      })                        
+    </script>
+
+　　  <footer>
+      <div id="foot">
+        <div class="aa"><a href="/yc/intro">网站介绍</a></div>
+        <div class="bb"><a href="/yc/extend">推广服务</a></div> 
+        <div class="bb"><a href="/yc/message">友情留言</a></div>
+        <div class="bb"><a href="/yc/declare">免责声明</a></div>
+        <div id="bb" class="bb"><a href="/yc/contact">联系我们</a></div>
+        <div id="bei">Copyright © 2014 沈阳易成网&nbsp;&nbsp;&nbsp;&nbsp;辽ICP备10204930号-6</div>
+        <div id="tong">
+          <script>var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1000251679'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1000251679%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+        </div>                           
+      </div>
+    </footer>   
+  </body>
+</html>
+
+
+

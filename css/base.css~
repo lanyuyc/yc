@@ -138,7 +138,9 @@ nav {
   border-right: 1px solid #363D41;
 }
 
-#foot #bb { border-right: 0; }
+#foot #bb {
+  border-right: 0;
+}
 
 #foot a {
   text-decoration: none;

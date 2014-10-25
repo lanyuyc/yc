@@ -5,7 +5,7 @@
     <meta name="Keywords" content="沈阳易成网"/>
     <meta name="Description" content="沈阳易成网"/>
     <title>沈阳易成网</title>
-    <link rel="stylesheet" href="/yc/css/base.css"/>
+    <link rel="stylesheet" href="{{ site.url }}/css/base.css"/>
     <link rel="stylesheet" href="/yc/css/jquery-ui-1.10.4.min.css"/>
     <link rel="stylesheet" href="/yc/css/mode.css"/>
     <script src="/yc/js/jquery-2.0.3.min.js"></script>

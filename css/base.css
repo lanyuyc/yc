@@ -79,17 +79,13 @@ nav {
           box-shadow: 0 1px 0px rgba(0, 0, 0, 0.065);
 }
 
-.ulA {
-  list-style-type: none;
-}
+.ulA { list-style-type: none; }
 
-#menu li {
-  color: #0A5A27;
-}
+#menu li { color: #0A5A27; }
 
 #menu a {
   text-decoration: none;
-  color: #ffffff;
+  color: #0A5A27;
 }
 
 #menu .shou {
@@ -212,17 +208,11 @@ footer {
   background: #DBDFE1;     
 }
 
-#intro p {
-  text-indent: 2em;
-}
+#intro p { text-indent: 2em; }
 
-#extend p {
-  text-indent: 2em;
-}
+#extend p { text-indent: 2em; }
 
-#declare p {
-  text-indent: 2em;
-}
+#declare p { text-indent: 2em; }
 
 
 /* index.html */
@@ -266,9 +256,7 @@ video {
 #viC,
 #viD,
 #viE,
-#viF {
-  display: none;
-}
+#viF { display: none; }
 
 #ope {
   float: left;
@@ -309,22 +297,22 @@ video {
   font-size: 18px;
 }
 
-.intro p { text-indent: 2em;}
+.intro p { text-indent: 2em; }
 
 .imgA {
   width: 350px;
   height: 210px;
 }
 
-#xin { height: 860px;}
+#xin { height: 860px; }
 
-#da { height: 760px;}
+#da { height: 760px; }
 
-#hai { height: 260px;}
+#hai { height: 260px; }
 
-#tian { height: 840px;}
+#tian { height: 840px; }
 
-#gai { height: 260px;}
+#gai { height: 260px; }
 
 
 

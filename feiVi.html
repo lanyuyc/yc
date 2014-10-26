@@ -1,80 +1,20 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>菲林格尔地板</title>
-    <meta charset="utf-8"/>
-    <meta name="Keywords" content="台安菲林格尔地板"/>
-    <meta name="Description" content="台安菲林格尔地板是菲林格尔在台安地区唯一授权专卖店，电话：18642287999，地址：邮政局东50米。"/>
-    <script src="/yc/js/jquery-2.0.3.min.js"></script>
-    <script src="/yc/js/fei.js"></script>
-    <link rel="stylesheet" href="/yc/css/fei.css"/>
-  </head>
-  <body>
-    <header>
-      <div id="menu">
-        <div id="name">菲林格尔地板</div>
-        <nav>
-          <ul>
-            <li><a href="/yc/feiPro">装修实景</a></li>
-            <li><a href="/yc/feiVi">视频</a></li>
-            <li><a href="/yc/feiNews">活动新闻</a></li>
-            <li><a href="/yc/feiUs">关于我们</a></li>
-          </ul>
-        </nav>
-      </div>
-    </header> 
-
-    <section>
-         <video id="viA" controls="controls" autoplay="autoplay">
-          <source src="/yc/video/fei.webm" type="video/webm" />
-          <source src="/yc/video/fei.mp4" type="video/mp4" />
-          您的浏览器不支持 video 标签,请用火狐,谷歌,360等浏览器。   
+---
+layout: feiBase
+---
+   <video id="viA" controls="controls" autoplay="autoplay">
+     <source src="/yc/video/fei.webm" type="video/webm" />
+     <source src="/yc/video/fei.mp4" type="video/mp4" />
+     您的浏览器不支持 video 标签,请用火狐,谷歌,360等浏览器。   
    </video>
 
    <script>
-          $(function(){
-            var w=915*[$(window).width()]/1353,h=w*9/16;
-            $('video').css('width',w);
-            $('video').css('height',h);
-            var top1=([$(window).height()-119]-h)/2
-            $('video').css('margin-top',top1);
-            $('section').css('height',($(window).height()-119));
-            })
+     $(function(){
+       var w=915*[$(window).width()]/1353,h=w*9/16;
+       $('video').css('width',w);
+       $('video').css('height',h);
+       var top1=([$(window).height()-119]-h)/2
+       $('video').css('margin-top',top1);
+       $('section').css('height',($(window).height()-119));
+     })
    </script>
-      <div id="clear"></div>
-    </section>
-
-    <script>
-      $(function(){
-        var w=$(window).width();
-        var s=w/1366;
-        $('#menu').css('width',w);
-        $('#foot').css('width',w);
-        $('nav').css('margin-left',250*s);
-        $('nav').css('font-size',16*s);
-        $('#name').css('margin-left',64*s);
-        $('#name').css('font-size',30*s);
-        $('span').css('font-size',16*s);
-        $('#span1').css('margin-left',5*s);
-        $('#span2').css('margin-left',60*s);           
-        $('ul').css('width',400*s);
-        $('ul li').css('margin-left',20*s);
-        $('#fan').css('margin-left',40*s);               
-      })         
-    </script>
-
-    <footer>
-      <div id="foot"> 
-        <span id="span1">Copyright © 2014-2015 菲林格尔地板</span>
-        <span id="span2">地址：邮政局东50米&nbsp;&nbsp;&nbsp;&nbsp;电话：18642287999</span>
-        <span>
-          <a href="/yc/mode">返回</a>
-        </span>
-      </div>
-    </footer>
-
-  </body>
-</html>
-
-
 

@@ -5,9 +5,9 @@
     <meta charset="utf-8"/>
     <meta name="Keywords" content="台安菲林格尔地板"/>
     <meta name="Description" content="台安菲林格尔地板是菲林格尔在台安地区唯一授权专卖店，电话：18642287999，地址：邮政局东50米。"/>
-    <script src="/dz/js/jquery-2.0.3.min.js"></script>
-    <script src="/dz/js/fei.js"></script>
-    <link rel="stylesheet" href="/dz/css/fei.css"/>
+    <script src="/yc/js/jquery-2.0.3.min.js"></script>
+    <script src="/yc/js/fei.js"></script>
+    <link rel="stylesheet" href="/yc/css/fei.css"/>
     <style>
       footer{margin-top:16px;}
     </style>
@@ -18,10 +18,10 @@
         <div id="name">菲林格尔地板</div>
         <nav>
           <ul>
-            <li><a href="/dz/feiPro">装修实景</a></li>
-            <li><a href="/dz/feiVi">视频</a></li>
-            <li><a href="/dz/feiNews">活动新闻</a></li>
-            <li><a href="/dz/feiUs">关于我们</a></li>
+            <li><a href="/yc/feiPro">装修实景</a></li>
+            <li><a href="/yc/feiVi">视频</a></li>
+            <li><a href="/yc/feiNews">活动新闻</a></li>
+            <li><a href="/yc/feiUs">关于我们</a></li>
           </ul>
         </nav>
       </div>
@@ -30,87 +30,87 @@
     <section>
    <div id="tai">
      <div id="big1">
-       <img src="/dz/image/fei/big1.jpg"/>
+       <img src="/yc/image/fei/big1.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big2">
-       <img src="/dz/image/fei/big2.jpg"/>
+       <img src="/yc/image/fei/big2.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big3">
-       <img src="/dz/image/fei/big3.jpg"/>
+       <img src="/yc/image/fei/big3.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big4">
-       <img src="/dz/image/fei/big4.jpg"/>
+       <img src="/yc/image/fei/big4.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big5">
-       <img src="/dz/image/fei/big5.jpg"/>
+       <img src="/yc/image/fei/big5.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big6">
-       <img src="/dz/image/fei/big6.jpg"/>
+       <img src="/yc/image/fei/big6.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big7">
-       <img src="/dz/image/fei/big7.jpg"/>
+       <img src="/yc/image/fei/big7.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big8">
-       <img src="/dz/image/fei/big8.jpg"/>
+       <img src="/yc/image/fei/big8.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big9">
-       <img src="/dz/image/fei/big9.jpg"/>
+       <img src="/yc/image/fei/big9.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big10">
-       <img src="/dz/image/fei/big10.jpg"/>
+       <img src="/yc/image/fei/big10.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big11">
-       <img src="/dz/image/fei/big11.jpg"/>
+       <img src="/yc/image/fei/big11.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big12">
-       <img src="/dz/image/fei/big12.jpg"/>
+       <img src="/yc/image/fei/big12.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big13">
-       <img src="/dz/image/fei/big13.jpg"/>
+       <img src="/yc/image/fei/big13.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big14">
-       <img src="/dz/image/fei/big14.jpg"/>
+       <img src="/yc/image/fei/big14.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big15">
-       <img src="/dz/image/fei/big15.jpg"/>
+       <img src="/yc/image/fei/big15.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big16">
-       <img src="/dz/image/fei/big16.jpg"/>
+       <img src="/yc/image/fei/big16.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big17">
-       <img src="/dz/image/fei/big17.jpg"/>
+       <img src="/yc/image/fei/big17.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big18">
-       <img src="/dz/image/fei/big18.jpg"/>
+       <img src="/yc/image/fei/big18.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big19">
-       <img src="/dz/image/fei/big19.jpg"/>
+       <img src="/yc/image/fei/big19.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big20">
-       <img src="/dz/image/fei/big20.jpg"/>
+       <img src="/yc/image/fei/big20.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big21">
-       <img src="/dz/image/fei/big21.jpg"/>
+       <img src="/yc/image/fei/big21.jpg"/>
        <p>装修实景</p>
      </div>
    </div>
@@ -132,7 +132,7 @@
 
        $('#tai div').click(function(){
          var g=$(this).attr('id');
-         var oImg=$("<img class='imgBig' src='/dz/image/fei/"+g+".jpg'/>");
+         var oImg=$("<img class='imgBig' src='/yc/image/fei/"+g+".jpg'/>");
          $('#big img').remove();
          $('#big').append(oImg);
          $('#big').css('width',1000*s);
@@ -179,7 +179,7 @@
         <span id="span1">Copyright © 2014-2015 菲林格尔地板</span>
         <span id="span2">地址：邮政局东50米&nbsp;&nbsp;&nbsp;&nbsp;电话：18642287999</span>
         <span>
-          <a href="/dz/mode">返回</a>
+          <a href="/yc/mode">返回</a>
         </span>
       </div>
     </footer>

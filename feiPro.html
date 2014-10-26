@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>菲林格尔地板</title>
+    <meta charset="utf-8"/>
+    <meta name="Keywords" content="台安菲林格尔地板"/>
+    <meta name="Description" content="台安菲林格尔地板是菲林格尔在台安地区唯一授权专卖店，电话：18642287999，地址：邮政局东50米。"/>
+    <script src="/dz/js/jquery-2.0.3.min.js"></script>
+    <script src="/dz/js/fei.js"></script>
+    <link rel="stylesheet" href="/dz/css/fei.css"/>
+    <style>
+      footer{margin-top:16px;}
+    </style>
+  </head>
+  <body>
+    <header>
+      <div id="menu">
+        <div id="name">菲林格尔地板</div>
+        <nav>
+          <ul>
+            <li><a href="/dz/feiPro">装修实景</a></li>
+            <li><a href="/dz/feiVi">视频</a></li>
+            <li><a href="/dz/feiNews">活动新闻</a></li>
+            <li><a href="/dz/feiUs">关于我们</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header> 
+
+    <section>
+   <div id="tai">
+     <div id="big1">
+       <img src="/dz/image/fei/big1.jpg"/>
+       <p>装修实景</p>
+     </div>
+     <div id="big2">
+       <img src="/dz/image/fei/big2.jpg"/>
+       <p>装修实景</p>
+     </div>
+     <div id="big3">
+       <img src="/dz/image/fei/big3.jpg"/>
+       <p>装修实景</p>
+     </div>
+     <div id="big4">
+       <img src="/dz/image/fei/big4.jpg"/>
+       <p>装修实景</p>
+     </div>
+     <div id="big5">
+       <img src="/dz/image/fei/big5.jpg"/>
+       <p>装修实景</p>
+     </div>
+     <div id="big6">
+       <img src="/dz/image/fei/big6.jpg"/>
+       <p>装修实景</p>
+     </div>
+     <div id="big7">
+       <img src="/dz/image/fei/big7.jpg"/>
+       <p>装修实景</p>
+     </div>
+     <div id="big8">
+       <img src="/dz/image/fei/big8.jpg"/>
+       <p>装修实景</p>
+     </div>
+     <div id="big9">
+       <img src="/dz/image/fei/big9.jpg"/>
+       <p>装修实景</p>
+     </div>
+     <div id="big10">
+       <img src="/dz/image/fei/big10.jpg"/>
+       <p>装修实景</p>
+     </div>
+     <div id="big11">
+       <img src="/dz/image/fei/big11.jpg"/>
+       <p>装修实景</p>
+     </div>
+     <div id="big12">
+       <img src="/dz/image/fei/big12.jpg"/>
+       <p>装修实景</p>
+     </div>
+     <div id="big13">
+       <img src="/dz/image/fei/big13.jpg"/>
+       <p>装修实景</p>
+     </div>
+     <div id="big14">
+       <img src="/dz/image/fei/big14.jpg"/>
+       <p>装修实景</p>
+     </div>
+     <div id="big15">
+       <img src="/dz/image/fei/big15.jpg"/>
+       <p>装修实景</p>
+     </div>
+     <div id="big16">
+       <img src="/dz/image/fei/big16.jpg"/>
+       <p>装修实景</p>
+     </div>
+     <div id="big17">
+       <img src="/dz/image/fei/big17.jpg"/>
+       <p>装修实景</p>
+     </div>
+     <div id="big18">
+       <img src="/dz/image/fei/big18.jpg"/>
+       <p>装修实景</p>
+     </div>
+     <div id="big19">
+       <img src="/dz/image/fei/big19.jpg"/>
+       <p>装修实景</p>
+     </div>
+     <div id="big20">
+       <img src="/dz/image/fei/big20.jpg"/>
+       <p>装修实景</p>
+     </div>
+     <div id="big21">
+       <img src="/dz/image/fei/big21.jpg"/>
+       <p>装修实景</p>
+     </div>
+   </div>
+   <div id="big">
+     <div id="close">&nbsp;关闭</div>
+   </div>
+
+   <script>
+     $(function(){
+       var s=$(window).width()/1366; 
+       $('#tai').css('width',1050*s);
+       $('#tai div').css('width',320*s);
+       $('#tai div').css('height',215*s);
+       $('#tai div').css('padding',4*s);
+       $('#tai div').css('margin-left',16*s);
+       $('#tai div').css('margin-top',16*s);
+       $('#tai div img').css('width',320*s);
+       $('#tai div img').css('height',180*s);
+
+       $('#tai div').click(function(){
+         var g=$(this).attr('id');
+         var oImg=$("<img class='imgBig' src='/dz/image/fei/"+g+".jpg'/>");
+         $('#big img').remove();
+         $('#big').append(oImg);
+         $('#big').css('width',1000*s);
+         $('#big').css('height',562*s);
+         $('#big').css('margin-left',-513*s);
+         $('#big').css('margin-top',-288*s);
+         $('.imgBig').css('width',1000*s);
+         $('.imgBig').css('height',562*s);
+         $('#big').fadeIn(500);
+         $('#tai div').fadeTo(400,0.2);
+       });
+
+       $('#close').click(function(){
+         $('#big').hide();
+         $('#tai div').fadeTo(400,1.0);
+       });
+     })    
+
+   </script>
+      <div id="clear"></div>
+    </section>
+
+    <script>
+      $(function(){
+        var w=$(window).width();
+        var s=w/1366;
+        $('#menu').css('width',w);
+        $('#foot').css('width',w);
+        $('nav').css('margin-left',250*s);
+        $('nav').css('font-size',16*s);
+        $('#name').css('margin-left',64*s);
+        $('#name').css('font-size',30*s);
+        $('span').css('font-size',16*s);
+        $('#span1').css('margin-left',5*s);
+        $('#span2').css('margin-left',60*s);           
+        $('ul').css('width',400*s);
+        $('ul li').css('margin-left',20*s);
+        $('#fan').css('margin-left',40*s);               
+      })         
+    </script>
+
+    <footer>
+      <div id="foot"> 
+        <span id="span1">Copyright © 2014-2015 菲林格尔地板</span>
+        <span id="span2">地址：邮政局东50米&nbsp;&nbsp;&nbsp;&nbsp;电话：18642287999</span>
+        <span>
+          <a href="/dz/mode">返回</a>
+        </span>
+      </div>
+    </footer>
+
+  </body>
+</html>
+
+
+
+
+
+
+

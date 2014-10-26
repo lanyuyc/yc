@@ -1,7 +1,11 @@
 ---
 layout: base
 ---
-   <script>$(function(){$('section').css('width',$(window).width());})</script>   
+   <script>
+     $(function(){
+       $('section').css('width',$(window).width());
+     })
+   </script>   
    <div id="contact">
         <div id="total">
             <h4>联系我们</h4><br/>

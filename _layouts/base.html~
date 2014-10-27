@@ -46,7 +46,7 @@
               <a href="{{ site.url }}/faci">便民信息</a>
             </li>                                      
             <li class="te">
-              <a href="{{ site.url }}/location">地理信息</a>
+              <a href="">地理信息</a>
             </li>
           </ul> 
         </nav>

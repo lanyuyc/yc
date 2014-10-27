@@ -1,39 +1,6 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>文选有机蔬菜</title>
-    <meta charset="utf-8"/>
-    <meta name="Keywords" content="文选有机蔬菜"/>
-    <meta name="Description" content="文选有机蔬菜"/>
-    <script src="/yc/js/jquery-2.0.3.min.js"></script>
-    <script src="/yc/js/wenXuan.js"></script>
-    <link rel="stylesheet" href="/yc/css/wenXuan.css"/>
-    <style>footer { margin-top: 15px;}</style>
-  </head>
-  <body>
-    <header>
-      <div id="menu">
-        <div id="name">文选有机蔬菜</div>
-        <nav>
-          <ul>
-            <a href="/yc/wenXuanPro">
-              <li>有机蔬菜</li>
-            </a>
-            <a href="/yc/wenXuanVi">
-              <li>视频</li>
-            </a>
-            <a href="/yc/wenXuanUs">
-              <li>关于我们</li>
-            </a>
-            <a href="/yc/sale">
-              <li id="fan">返回</li>
-            </a>   
-          </ul>
-        </nav>
-      </div>
-    </header>
-
-    <section>
+---
+layout: wxBase
+---
       <script>
         $(function(){
           var w=$(window).width();
@@ -59,7 +26,7 @@
 
        for(var i=1;i<16;i++){
          var oDiv=$("<div id='big"+i+"' class='big' style='float:left;width:330px;height:250px;margin-left:16px;margin-top:16px;color:#ffffff;background:#3E4044;'></div>");
-         var oImg=$("<img class='imgS' src='/yc/image/wenXuan/big"+i+".jpg'/>");
+         var oImg=$("<img class='imgS' src='/dz/image/wenXuan/big"+i+".jpg'/>");
          oDiv.append(oImg);
          oDiv.append(arr[i-1]);
          $('#tai').append(oDiv);
@@ -68,7 +35,7 @@
        $('#tai').append(cDiv);
        $('.big').click(function(){
          var g=$(this).attr('id');
-         var oImg=$("<img class='imgBig' src='/yc/image/wenXuan/"+g+".jpg'/>");
+         var oImg=$("<img class='imgBig' src='/dz/image/wenXuan/"+g+".jpg'/>");
 
          $('#big img').remove();
          $('#big').append(oImg);
@@ -97,15 +64,4 @@
      })    
 
    </script>
-      <div id="clear"></div>
-    </section>
 
-    <footer>
-      <div id="foot">
-        <span id="span1">地址：沈阳浑南新区</span>
-        <span id="span2">电话：18240159217</span>
-      </div>
-    </footer>
-
-  </body>
-</html>

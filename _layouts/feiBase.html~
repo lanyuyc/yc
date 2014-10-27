@@ -5,9 +5,9 @@
     <meta charset="utf-8"/>
     <meta name="Keywords" content="台安菲林格尔地板"/>
     <meta name="Description" content="台安菲林格尔地板是菲林格尔在台安地区唯一授权专卖店，电话：18642287999，地址：邮政局东50米。"/>
-    <script src="/yc/js/jquery-2.0.3.min.js"></script>
-    <script src="/yc/js/fei.js"></script>
-    <link rel="stylesheet" href="/yc/css/fei.css"/>
+    <script src="{{ site.url }}/js/jquery-2.0.3.min.js"></script>
+    <script src="{{ site.url }}/js/fei.js"></script>
+    <link rel="stylesheet" href="{{ site.url }}/css/fei.css"/>
   </head>
   <body>
     <header>
@@ -16,16 +16,16 @@
         <nav>
           <ul>
             <li>
-              <a href="/yc/feiPro">装修实景</a>
+              <a href="{{ site.url }}/feiPro">装修实景</a>
             </li>
             <li>
-              <a href="/yc/feiVi">视频</a>
+              <a href="{{ site.url }}/feiVi">视频</a>
             </li>
             <li>
-              <a href="/yc/feiNews">活动新闻</a>
+              <a href="{{ site.url }}/feiNews">活动新闻</a>
             </li>
             <li>
-              <a href="/yc/feiUs">关于我们</a>
+              <a href="{{ site.url }}/feiUs">关于我们</a>
             </li>
           </ul>
         </nav>
@@ -61,7 +61,7 @@
         <span id="span1">Copyright © 2014-2015 菲林格尔地板</span>
         <span id="span2">地址：邮政局东50米&nbsp;&nbsp;&nbsp;&nbsp;电话：18642287999</span>
         <span>
-          <a href="/yc/mode">返回</a>
+          <a href="{{ site.url }}/mode">返回</a>
         </span>
       </div>
     </footer>

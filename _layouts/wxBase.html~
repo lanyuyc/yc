@@ -5,9 +5,9 @@
     <meta charset="utf-8"/>
     <meta name="Keywords" content="文选有机蔬菜"/>
     <meta name="Description" content="文选有机蔬菜"/>
-    <script src="{{ site.url }}/js/jquery-2.0.3.min.js"></script>
-    <script src="{{ site.url }}/js/wx.js"></script>
-    <link rel="stylesheet" href="{{ site.url }}/css/wx.css"/>
+    <script src="/dz/js/jquery-2.0.3.min.js"></script>
+    <script src="/dz/js/wx.js"></script>
+    <link rel="stylesheet" href="/dz/css/wx.css"/>
     <style>footer { margin-top: 15px; }</style>
   </head>
   <body>
@@ -17,16 +17,16 @@
         <nav>
           <ul>
             <li>
-              <a href="{{ site.url }}/wxPro">有机蔬菜</a>
+              <a href="/dz/wxPro">有机蔬菜</a>
             </li>
             <li>
-              <a href="{{ site.url }}/wxVi">视频</a>
+              <a href="/dz/wxVi">视频</a>
             </li>
             <li>
-              <a href="{{ site.url }}/wxUs">关于我们</a>
+              <a href="/dz/wxUs">关于我们</a>
             </li>
             <li id="fan">
-              <a href="{{ site.url }}/sale">返回</a>
+              <a href="/dz/sale">返回</a>
             </li> 
           </ul>
         </nav>

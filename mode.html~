@@ -94,13 +94,13 @@ layout: base
        <a href="">
          <img class="imgMode" src="/yc/image/mode/f1.jpg"/>         
        </a>
-       <p>可立亚炭火烤肉</p>
+       <p>美食</p>
      </div>
      <div>
-       <a href="/yc/sheng">
+       <a href="">
          <img class="imgMode" src="/yc/image/mode/f2.jpg"/>         
        </a>
-       <p>圣士烘焙</p>
+       <p>美食</p>
      </div>
      <div>
        <a href="">
@@ -152,13 +152,13 @@ layout: base
      </div>
      <div>
        <a href="">
-         <img class="imgMode" src="/yc/image/mode/f11.jpg"/>         
+         <img class="imgMode" src="/yc/image/mode/f11.jpg"/>
        </a>
        <p>美食</p>
      </div>
      <div>
        <a href="">
-         <img class="imgMode" src="/yc/image/mode/f12.jpg"/>         
+         <img class="imgMode" src="/yc/image/mode/f12.jpg"/>
        </a>
        <p>美食</p>
      </div>
@@ -167,73 +167,73 @@ layout: base
     <div class="live" id="live3">
      <div>
        <a href="">
-         <img class="imgMode" src="/yc/image/mode/g1.jpg"/>         
+         <img class="imgMode" src="/yc/image/mode/g1.jpg"/>
        </a>
        <p>服饰</p>
      </div>
      <div>
        <a href="">
-         <img class="imgMode" src="/yc/image/mode/g2.jpg"/>         
+         <img class="imgMode" src="/yc/image/mode/g2.jpg"/>
        </a>
        <p>服饰</p>
      </div>
      <div>
        <a href="">
-         <img class="imgMode" src="/yc/image/mode/g3.jpg"/>         
+         <img class="imgMode" src="/yc/image/mode/g3.jpg"/>
        </a>
        <p>服饰</p>
      </div>
      <div>
        <a href="">
-         <img class="imgMode" src="/yc/image/mode/g4.jpg"/>         
+         <img class="imgMode" src="/yc/image/mode/g4.jpg"/>
        </a>
        <p>服饰</p>
      </div>
      <div>
        <a href="">
-         <img class="imgMode" src="/yc/image/mode/g5.jpg"/>         
+         <img class="imgMode" src="/yc/image/mode/g5.jpg"/>
        </a>
        <p>服饰</p>
      </div>
      <div>
        <a href="">
-         <img class="imgMode" src="/yc/image/mode/g6.jpg"/>         
+         <img class="imgMode" src="/yc/image/mode/g6.jpg"/>
        </a>
        <p>服饰</p>
      </div>
      <div>
        <a href="">
-         <img class="imgMode" src="/yc/image/mode/g7.jpg"/>         
+         <img class="imgMode" src="/yc/image/mode/g7.jpg"/>
        </a>
        <p>服饰</p>
      </div>
      <div>
        <a href="">
-         <img class="imgMode" src="/yc/image/mode/g8.jpg"/>         
+         <img class="imgMode" src="/yc/image/mode/g8.jpg"/>
        </a>
        <p>服饰</p>
      </div>
      <div>
        <a href="">
-         <img class="imgMode" src="/yc/image/mode/g9.jpg"/>         
+         <img class="imgMode" src="/yc/image/mode/g9.jpg"/>
        </a>
        <p>服饰</p>
      </div>
      <div>
        <a href="">
-         <img class="imgMode" src="/yc/image/mode/g10.jpg"/>         
+         <img class="imgMode" src="/yc/image/mode/g10.jpg"/>
        </a>
        <p>服饰</p>
      </div>
      <div>
        <a href="">
-         <img class="imgMode" src="/yc/image/mode/g11.jpg"/>         
+         <img class="imgMode" src="/yc/image/mode/g11.jpg"/>
        </a>
        <p>服饰</p>
      </div>
      <div>
        <a href="">
-         <img class="imgMode" src="/yc/image/mode/g12.jpg"/>         
+         <img class="imgMode" src="/yc/image/mode/g12.jpg"/>
        </a>
        <p>服饰</p>
      </div>
@@ -242,19 +242,19 @@ layout: base
    <div class="live" id="live4">
      <div>
        <a href="/yc/xiyuan">
-         <img class="imgMode" src="/yc/image/mode/o1.jpg"/>         
+         <img class="imgMode" src="/yc/image/mode/o1.jpg"/>
        </a>
        <p>台安僖缘庆典</p>
      </div>
      <div>
        <a href="">
-         <img class="imgMode" src="/yc/image/mode/o2.jpg"/>         
+         <img class="imgMode" src="/yc/image/mode/o2.jpg"/>
        </a>
        <p>婚庆摄影</p>
      </div>
      <div>
        <a href="">
-         <img class="imgMode" src="/yc/image/mode/o3.jpg"/>         
+         <img class="imgMode" src="/yc/image/mode/o3.jpg"/>
        </a>
        <p>婚庆摄影</p>
      </div>

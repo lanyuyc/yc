@@ -3,87 +3,87 @@ layout: feiBase
 ---
    <div id="tai">
      <div id="big1">
-       <img src="/yc/image/fei/big1.jpg"/>
+       <img src="{{ site.url }}/image/fei/big1.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big2">
-       <img src="/yc/image/fei/big2.jpg"/>
+       <img src="{{ site.url }}/image/fei/big2.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big3">
-       <img src="/yc/image/fei/big3.jpg"/>
+       <img src="{{ site.url }}/image/fei/big3.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big4">
-       <img src="/yc/image/fei/big4.jpg"/>
+       <img src="{{ site.url }}/image/fei/big4.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big5">
-       <img src="/yc/image/fei/big5.jpg"/>
+       <img src="{{ site.url }}/image/fei/big5.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big6">
-       <img src="/yc/image/fei/big6.jpg"/>
+       <img src="{{ site.url }}/image/fei/big6.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big7">
-       <img src="/yc/image/fei/big7.jpg"/>
+       <img src="{{ site.url }}/image/fei/big7.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big8">
-       <img src="/yc/image/fei/big8.jpg"/>
+       <img src="{{ site.url }}/image/fei/big8.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big9">
-       <img src="/yc/image/fei/big9.jpg"/>
+       <img src="{{ site.url }}/image/fei/big9.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big10">
-       <img src="/yc/image/fei/big10.jpg"/>
+       <img src="{{ site.url }}/image/fei/big10.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big11">
-       <img src="/yc/image/fei/big11.jpg"/>
+       <img src="{{ site.url }}/image/fei/big11.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big12">
-       <img src="/yc/image/fei/big12.jpg"/>
+       <img src="{{ site.url }}/image/fei/big12.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big13">
-       <img src="/yc/image/fei/big13.jpg"/>
+       <img src="{{ site.url }}/image/fei/big13.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big14">
-       <img src="/yc/image/fei/big14.jpg"/>
+       <img src="{{ site.url }}/image/fei/big14.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big15">
-       <img src="/yc/image/fei/big15.jpg"/>
+       <img src="{{ site.url }}/image/fei/big15.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big16">
-       <img src="/yc/image/fei/big16.jpg"/>
+       <img src="{{ site.url }}/image/fei/big16.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big17">
-       <img src="/yc/image/fei/big17.jpg"/>
+       <img src="{{ site.url }}/image/fei/big17.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big18">
-       <img src="/yc/image/fei/big18.jpg"/>
+       <img src="{{ site.url }}/image/fei/big18.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big19">
-       <img src="/yc/image/fei/big19.jpg"/>
+       <img src="{{ site.url }}/image/fei/big19.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big20">
-       <img src="/yc/image/fei/big20.jpg"/>
+       <img src="{{ site.url }}/image/fei/big20.jpg"/>
        <p>装修实景</p>
      </div>
      <div id="big21">
-       <img src="/yc/image/fei/big21.jpg"/>
+       <img src="{{ site.url }}/image/fei/big21.jpg"/>
        <p>装修实景</p>
      </div>
    </div>
@@ -105,7 +105,7 @@ layout: feiBase
 
        $('#tai div').click(function(){
          var g=$(this).attr('id');
-         var oImg=$("<img class='imgBig' src='/yc/image/fei/"+g+".jpg'/>");
+         var oImg=$("<img class='imgBig' src='{{ site.url }}/image/fei/"+g+".jpg'/>");
          $('#big img').remove();
          $('#big').append(oImg);
          $('#big').css('width',1000*s);

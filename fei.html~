@@ -2,13 +2,13 @@
 layout: feiBase
 ---
       <div id="div1">
-        <img src="/yc/image/fei/a.jpg"/>
+        <img src="{{ site.url }}/image/fei/a.jpg"/>
       </div>
       <div id="div2">
-        <img src="/yc/image/fei/b.jpg"/>
+        <img src="{{ site.url }}/image/fei/b.jpg"/>
       </div>
       <div id="div3">
-        <img src="/yc/image/fei/c.jpg"/>
+        <img src="{{ site.url }}/image/fei/c.jpg"/>
       </div>
 
       <script>

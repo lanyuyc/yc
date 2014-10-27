@@ -93,7 +93,7 @@ layout: base
        <p>蔬菜</p>
      </div>
      <div>
-       <a href="{{ site.url }}/wenXuanPro">
+       <a href="{{ site.url }}/wxPro">
          <img class="imgMode" src="{{ site.url }}/image/sale/h2.jpg"/>         
        </a>
        <p>文选有机蔬菜</p>

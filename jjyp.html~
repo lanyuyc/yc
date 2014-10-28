@@ -14,7 +14,7 @@ layout: zhBase
     <section class="goods" id="goods">
      <div>
        <a href="">
-         <img src="{{MEDIA_URL}image/jiu/jj1.jpg"/>
+         <img src="{{ site.url }}/image/jiu/jj1.jpg"/>
        </a>
        <p class="name">巴马长寿瓷杯</p>
        <p class="group">团购价：￥35元</p>
@@ -22,7 +22,7 @@ layout: zhBase
      </div>
      <div>
        <a href="">
-         <img src="{{MEDIA_URL}}image/jiu/jj2.jpg"/>         
+         <img src="{{ site.url }}/image/jiu/jj2.jpg"/>         
        </a>
        <p class="name">不锈钢蒸锅</p>
        <p class="group">团购价：￥85元</p>
@@ -30,7 +30,7 @@ layout: zhBase
      </div>
      <div>
        <a href="">
-         <img src="{{MEDIA_URL}}image/jiu/jj3.jpg"/>         
+         <img src="{{ site.url }}/image/jiu/jj3.jpg"/>         
        </a>
        <p class="name">长坤臂式血压计</p>
        <p class="group">团购价：￥115元</p>
@@ -38,7 +38,7 @@ layout: zhBase
      </div>
      <div>
        <a href="">
-         <img src="{{MEDIA_URL}}image/jiu/jj4.jpg"/>         
+         <img src="{{ site.url }}/image/jiu/jj4.jpg"/>         
        </a>
        <p class="name">超霸牌电吹风</p>
        <p class="group">团购价：￥55元</p>
@@ -46,7 +46,7 @@ layout: zhBase
      </div>
      <div>
        <a href="">
-         <img src="{{MEDIA_URL}}image/jiu/jj5.jpg"/>         
+         <img src="{{ site.url }}/image/jiu/jj5.jpg"/>         
        </a>
        <p class="name">福牌养生碗</p>
        <p class="group">团购价：￥35元</p>
@@ -54,7 +54,7 @@ layout: zhBase
      </div>
      <div>
        <a href="">
-         <img src="{{MEDIA_URL}}image/jiu/jj6.jpg"/>         
+         <img src="{{ site.url }}/image/jiu/jj6.jpg"/>         
        </a>
        <p class="name">富硒养生杯</p>
        <p class="group">团购价：￥25元</p>
@@ -62,7 +62,7 @@ layout: zhBase
      </div>
      <div>
        <a href="">
-         <img src="{{MEDIA_URL}}image/jiu/jj7.jpg"/>         
+         <img src="{{ site.url }}/image/jiu/jj7.jpg"/>         
        </a>
        <p class="name">颈康乐</p>
        <p class="group">团购价：￥95元</p>
@@ -70,7 +70,7 @@ layout: zhBase
      </div>
      <div>
        <a href="">
-         <img src="{{MEDIA_URL}}image/jiu/jj8.jpg"/>         
+         <img src="{{ site.url }}/image/jiu/jj8.jpg"/>         
        </a>
        <p class="name">黄河免火再煮锅</p>
        <p class="group">团购价：￥140元</p>
@@ -78,7 +78,7 @@ layout: zhBase
      </div>
      <div>
        <a href="">
-         <img src="{{MEDIA_URL}}image/jiu/jj9.jpg"/>         
+         <img src="{{ site.url }}/image/jiu/jj9.jpg"/>         
        </a>
        <p class="name">牦牛骨筷子</p>
        <p class="group">团购价：￥20元</p>
@@ -86,7 +86,7 @@ layout: zhBase
      </div>
      <div>
        <a href="">
-         <img src="{{MEDIA_URL}}image/jiu/jj10.jpg"/>         
+         <img src="{{ site.url }}/image/jiu/jj10.jpg"/>         
        </a>
        <p class="name">水机</p>
        <p class="group">团购价：￥2300元</p>
@@ -94,7 +94,7 @@ layout: zhBase
      </div>
      <div>
        <a href="">
-         <img src="{{MEDIA_URL}}image/jiu/jj11.jpg"/>         
+         <img src="{{ site.url }}/image/jiu/jj11.jpg"/>         
        </a>
        <p class="name">托玛琳能量杯</p>
        <p class="group">团购价：￥195元</p>
@@ -102,7 +102,7 @@ layout: zhBase
      </div>
      <div>
        <a href="">
-         <img src="{{MEDIA_URL}}image/jiu/jj12.jpg"/>         
+         <img src="{{ site.url }}/image/jiu/jj12.jpg"/>         
        </a>
        <p class="name">托玛琳</p>
        <p class="group">团购价：￥150元</p>
@@ -110,7 +110,7 @@ layout: zhBase
      </div>
      <div>
        <a href="">
-         <img src="{{MEDIA_URL}}image/jiu/jj13.jpg"/>         
+         <img src="{{ site.url }}/image/jiu/jj13.jpg"/>         
        </a>
        <p class="name">托玛琳洗衣膏</p>
        <p class="group">团购价：￥4.5元</p>
@@ -118,7 +118,7 @@ layout: zhBase
      </div>
      <div>
        <a href="">
-         <img src="{{MEDIA_URL}}image/jiu/jj14.jpg"/>         
+         <img src="{{ site.url }}/image/jiu/jj14.jpg"/>         
        </a>
        <p class="name">托玛琳香皂</p>
        <p class="group">团购价：￥5元</p>
@@ -126,7 +126,7 @@ layout: zhBase
      </div>
      <div>
        <a href="">
-         <img src="{{MEDIA_URL}}image/jiu/jj15.jpg"/>         
+         <img src="{{ site.url }}/image/jiu/jj15.jpg"/>         
        </a>
        <p class="name">托玛琳牙膏</p>
        <p class="group">团购价：￥10元</p>
@@ -134,7 +134,7 @@ layout: zhBase
      </div>
      <div>
        <a href="">
-         <img src="{{MEDIA_URL}}image/jiu/jj16.jpg"/>         
+         <img src="{{ site.url }}/image/jiu/jj16.jpg"/>         
        </a>
        <p class="name">香薰夏凉被</p>
        <p class="group">团购价：￥75元</p>
@@ -142,7 +142,7 @@ layout: zhBase
      </div>
      <div>
        <a href="">
-         <img src="{{MEDIA_URL}}image/jiu/jj17.jpg"/>         
+         <img src="{{ site.url }}/image/jiu/jj17.jpg"/>         
        </a>
        <p class="name">小海豹按摩器</p>
        <p class="group">团购价：￥75元</p>
@@ -150,7 +150,7 @@ layout: zhBase
      </div>
      <div>
        <a href="">
-         <img src="{{MEDIA_URL}}image/jiu/jj18.jpg"/>         
+         <img src="{{ site.url }}/image/jiu/jj18.jpg"/>         
        </a>
        <p class="name">小神泡活氧机</p>
        <p class="group">团购价：￥180元</p>
@@ -158,7 +158,7 @@ layout: zhBase
      </div>
      <div>
        <a href="">
-         <img src="{{MEDIA_URL}}image/jiu/jj19.jpg"/>         
+         <img src="{{ site.url }}/image/jiu/jj19.jpg"/>         
        </a>
        <p class="name">新喜乐裂可宁</p>
        <p class="group">团购价：￥7元</p>
@@ -166,7 +166,7 @@ layout: zhBase
      </div>
      <div>
        <a href="">
-         <img src="{{MEDIA_URL}}image/jiu/jj20.jpg"/>         
+         <img src="{{ site.url }}/image/jiu/jj20.jpg"/>         
        </a>
        <p class="name">鱼跃血压计A级</p>
        <p class="group">团购价：￥80元</p>
@@ -174,7 +174,7 @@ layout: zhBase
      </div>
      <div>
        <a href="">
-         <img src="{{MEDIA_URL}}image/jiu/jj21.jpg"/>         
+         <img src="{{ site.url }}/image/jiu/jj21.jpg"/>         
        </a>
        <p class="name">中科药磁枕</p>
        <p class="group">团购价：￥55元</p>

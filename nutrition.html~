@@ -1,7 +1,6 @@
 ---
 layout: zhBase
 ---
-
     <section>
       <img class="image" src="{{ site.url }}/image/nutrition.jpg" />
       <script>

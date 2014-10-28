@@ -2,7 +2,7 @@
 layout: zhBase
 ---
     <section>
-      <img class="image" src="{{ site.url }}/image/zbys.jpg" />
+      <img class="image" src="{{ site.url }}/image/jiu/zbys.jpg" />
     </section>
 
     <section class="goods" id="goods">

@@ -1,0 +1,27 @@
+#goods {
+  margin-top: 30px;
+  height: 1060px;
+}
+
+#goods div {
+  float: none;
+  margin-left: 0px;
+  margin-top: 25px;
+  width: 980px;
+  height: 265px;
+  text-align: left;
+  background: #fff;
+}
+
+#goods p {
+  text-align: left;
+  font-size: 30px;
+  margin-top: 40px;
+}
+
+.gong img { width: 240px; }
+
+
+
+
+

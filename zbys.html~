@@ -182,4 +182,4 @@ layout: zhBase
        <p class="group">团购价：￥30元/350g</p>
        <p>市场价：￥45元/350g</p>
      </div>
-  </section>
+{% endblock %}

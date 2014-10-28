@@ -8,7 +8,7 @@ layout: zhBase
     <section class="goods" id="goods">
      <div>
        <a href="">
-         <img src="{{MEDIA_URL}}image/jiu/yy1.jpg"/>
+         <img src="image/jiu/yy1.jpg"/>
        </a>
        <p class="name">巴马长寿瓷杯</p>
        <p class="group">团购价：￥35元</p>

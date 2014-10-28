@@ -44,8 +44,14 @@
           </li>
         </ul> 
       </nav>      
-    </header>
+    </header>    
       {{ content }}
+      <script>
+        $(function(){
+          var w=$(window).width();
+          $('.image').css('width',w);
+        });
+      </script>
     <footer>
       <div id="foot">
         <div class="aa">

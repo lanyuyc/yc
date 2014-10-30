@@ -2,7 +2,7 @@
 layout: zhBase
 ---
     <section>
-      <img class="image" src="{{ site.url }}/image/jkhl.jpg" />
+      <img class="image" src="{{ site.url }}/image/jiu/jkhl.jpg" />
     </section>
 
     <section class="goods" id="goods">
@@ -114,7 +114,7 @@ layout: zhBase
        <a href="">
          <img src="{{ site.url }}/image/jiu/jk14.jpg"/>         
        </a>
-       <p class="name">小神泡活氧机</p>
+       <p class="name">活氧机</p>
        <p class="group">团购价：￥180元</p>
        <p>市场价：￥298元</p>
      </div>

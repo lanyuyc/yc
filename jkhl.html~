@@ -170,6 +170,8 @@ layout: zhBase
        <a href="">
          <img src="{{ site.url }}/image/jiu/jk21.jpg"/>         
        </a>
-       <p class="name"></p>
+       <p class="name">韩国瓷杯</p>
+       <p class="group">团购价：￥198元</p>
+       <p>市场价：￥480元</p>
      </div>
   </section>

@@ -91,10 +91,10 @@ layout: base
 
    <div class="live" id="live2">
      <div>
-       <a href="http://www.dfyicheng.com/zhIndex">
+       <a href="">
          <img class="imgMode" src="{{ site.url }}/image/mode/f1.jpg"/>         
        </a>
-       <p>玖康乐</p>
+       <p>美食</p>
      </div>
      <div>
        <a href="">

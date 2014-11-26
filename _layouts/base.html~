@@ -36,18 +36,12 @@
             <li class="duo">
               <a href="{{ site.url }}/multi">视频</a>
             </li>
-            <li class="te">
-              <a href="">微信平台</a>
-            </li>
 　　    <li class="te">
               <a href="{{ site.url }}/life">生活信息</a>
             </li>
             <li class="te">
               <a href="{{ site.url }}/faci">便民信息</a>
             </li>                                      
-            <li class="te">
-              <a href="">地理信息</a>
-            </li>
           </ul> 
         </nav>
       </div>   

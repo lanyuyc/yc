@@ -3,89 +3,13 @@ layout: base
 ---
 
    <div id="butt">
-     <div class="2">蔬菜</div>
-     <div class="1">水果</div>
+     <div class="1">蔬菜</div>
+     <div class="2">水果</div>
      <div class="4">干果</div>
      <div class="3">鱼类</div>
      <div class="5">海产品</div>
    </div>
-
    <div class="live" id="live1">
-     <div>
-       <a href="">
-         <img class="imgMode" src="{{ site.url }}/image/sale/j1.jpg"/>         
-       </a>
-       <p>水果</p>
-     </div>
-     <div>
-       <a href="{{ site.url }}/xiePro">
-         <img class="imgMode" src="{{ site.url }}/image/sale/j2.jpg"/>         
-       </a>
-       <p>水果</p>
-     </div>
-     <div>
-       <a href="">
-         <img class="imgMode" src="{{ site.url }}/image/sale/j3.jpg"/>         
-       </a>
-       <p>水果</p>
-     </div>
-     <div>
-       <a href="">
-         <img class="imgMode" src="{{ site.url }}/image/sale/j4.jpg"/>         
-       </a>
-       <p>水果</p>
-     </div>
-     <div>
-       <a href="">
-         <img class="imgMode" src="{{ site.url }}/image/sale/j5.jpg"/>         
-       </a>
-       <p>水果</p>
-     </div>
-     <div>
-       <a href="">
-         <img class="imgMode" src="{{ site.url }}/image/sale/j6.jpg"/>         
-       </a>
-       <p>水果</p>
-     </div>
-     <div>
-       <a href="">
-         <img class="imgMode" src="{{ site.url }}/image/sale/j7.jpg"/>         
-       </a>
-       <p>水果</p>
-     </div>
-     <div>
-       <a href="">
-         <img class="imgMode" src="{{ site.url }}/image/sale/j8.jpg"/>         
-       </a>
-       <p>水果</p>
-     </div>
-     <div>
-       <a href="">
-         <img class="imgMode" src="{{ site.url }}/image/sale/j9.jpg"/>         
-       </a>
-       <p>水果</p>
-     </div>
-     <div>
-       <a href="">
-         <img class="imgMode" src="{{ site.url }}/image/sale/j10.jpg"/>         
-       </a>
-       <p>水果</p>
-     </div>
-     <div>
-       <a href="">
-         <img class="imgMode" src="{{ site.url }}/image/sale/j11.jpg"/>         
-       </a>
-       <p>水果</p>
-     </div>
-     <div>
-       <a href="">
-         <img class="imgMode" src="{{ site.url }}/image/sale/j12.jpg"/>         
-       </a>
-       <p>水果</p>
-     </div>
-   </div>
-
-   <div class="live" id="live2">
      <div>
        <a href="">
          <img class="imgMode" src="{{ site.url }}/image/sale/h1.jpg"/>         
@@ -159,7 +83,80 @@ layout: base
        <p>蔬菜</p>
      </div>
    </div>
-
+   <div class="live" id="live2">
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/j1.jpg"/>         
+       </a>
+       <p>水果</p>
+     </div>
+     <div>
+       <a href="{{ site.url }}/xiePro">
+         <img class="imgMode" src="{{ site.url }}/image/sale/j2.jpg"/>         
+       </a>
+       <p>水果</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/j3.jpg"/>         
+       </a>
+       <p>水果</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/j4.jpg"/>         
+       </a>
+       <p>水果</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/j5.jpg"/>         
+       </a>
+       <p>水果</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/j6.jpg"/>         
+       </a>
+       <p>水果</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/j7.jpg"/>         
+       </a>
+       <p>水果</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/j8.jpg"/>         
+       </a>
+       <p>水果</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/j9.jpg"/>         
+       </a>
+       <p>水果</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/j10.jpg"/>         
+       </a>
+       <p>水果</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/j11.jpg"/>         
+       </a>
+       <p>水果</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/j12.jpg"/>         
+       </a>
+       <p>水果</p>
+     </div>
+   </div>
     <div class="live" id="live3">
      <div>
        <a href="{{ site.url }}/dhfPro">

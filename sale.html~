@@ -617,7 +617,7 @@ layout: base
          $(this).css('background','#E5E2B1');
          $('.live').hide();
          $('#live'+$(this).attr('class')).show();
-       });
+     });
 
        function size(){
          var s=[$(window).width()]/1353;

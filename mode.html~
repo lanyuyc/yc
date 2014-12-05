@@ -8,7 +8,7 @@ layout: base
      <div class="4">婚庆摄影</div>
      <div class="5">电脑通讯</div>
      <div class="6">珠宝饰品</div>
-     <div class="7">休闲娱乐</div>
+     <div class="7">花卉</div>
      <div class="8">旅游</div>
      <div class="9">汽车</div>
      <div class="10">楼盘</div>
@@ -466,10 +466,10 @@ layout: base
 
    <div class="live" id="live7">
      <div>
-       <a href="http://www.ashyqh.com">
+       <a href="">
          <img class="imgMode" src="{{ site.url }}/image/mode/k1.jpg"/>         
        </a>
-       <p>鞍山市立山区华韵琴行</p>
+       <p>花卉</p>
      </div>
      <div>
        <a href="">
@@ -481,61 +481,61 @@ layout: base
        <a href="">
          <img class="imgMode" src="{{ site.url }}/image/mode/k3.jpg"/>         
        </a>
-       <p>台安力宁苗圃</p>
+       <p>花卉</p>
      </div>
      <div>
        <a href="">
          <img class="imgMode" src="{{ site.url }}/image/mode/k4.jpg"/>         
        </a>
-       <p>休闲娱乐</p>
+       <p>花卉</p>
      </div>
      <div>
        <a href="">
          <img class="imgMode" src="{{ site.url }}/image/mode/k5.jpg"/>         
        </a>
-       <p>休闲娱乐</p>
+       <p>花卉</p>
      </div>
      <div>
        <a href="">
          <img class="imgMode" src="{{ site.url }}/image/mode/k6.jpg"/>         
        </a>
-       <p>休闲娱乐</p>
+       <p>花卉</p>
      </div>
      <div>
        <a href="">
          <img class="imgMode" src="{{ site.url }}/image/mode/k7.jpg"/>         
        </a>
-       <p>休闲娱乐</p>
+       <p>花卉</p>
      </div>
      <div>
        <a href="">
          <img class="imgMode" src="{{ site.url }}/image/mode/k8.jpg"/>         
        </a>
-       <p>休闲娱乐</p>
+       <p>花卉</p>
      </div>
      <div>
        <a href="">
          <img class="imgMode" src="{{ site.url }}/image/mode/k9.jpg"/>         
        </a>
-       <p>休闲娱乐</p>
+       <p>花卉</p>
      </div>
      <div>
        <a href="">
          <img class="imgMode" src="{{ site.url }}/image/mode/k10.jpg"/>         
        </a>
-       <p>休闲娱乐</p>
+       <p>花卉</p>
      </div>
      <div>
        <a href="">
          <img class="imgMode" src="{{ site.url }}/image/mode/k11.jpg"/>         
        </a>
-       <p>休闲娱乐</p>
+       <p>花卉</p>
      </div>
      <div>
        <a href="">
          <img class="imgMode" src="{{ site.url }}/image/mode/k12.jpg"/>         
        </a>
-       <p>休闲娱乐</p>
+       <p>花卉</p>
      </div>
    </div>
 

@@ -22,7 +22,8 @@
     <header>
       <div id="menu">
         <span class="nameA">
-          <img src="{{ site.url }}/image/standard.jpg" />沈阳众合易成网
+          <img src="{{ site.url }}/image/standard.jpg" />
+          <div>沈阳众合易成网</div>
         </span>
         <nav>          
           <ul class="ulA">

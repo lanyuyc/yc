@@ -210,7 +210,8 @@ footer {
   margin-right: auto;
   width: 980px;
   height: 40px;
-  background: #DBDFE1;     
+  background: #DBDFE1;
+  background: red;
 }
 
 #intro p { text-indent: 2em; }

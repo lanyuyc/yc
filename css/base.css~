@@ -54,7 +54,10 @@ section {
   float: left;
 }
 
-.nameA div { margin-top: 2px; }
+.nameA div {
+  float: left;
+  margin-top: 2px;
+}
 
 .nameA .address {
   font-size: 18px;

@@ -210,7 +210,6 @@ footer {
   margin-right: auto;
   width: 980px;
   height: 40px;
-  font-size: 14px;
   background: #DBDFE1;     
 }
 

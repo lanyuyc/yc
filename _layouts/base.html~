@@ -64,7 +64,7 @@
         $('body').css('font',16*s);
         $('#menu').css('width',1353*s);
         $('#menu').css('font-size',17*s);
-        $('.nameA').css('margin-left',60*s);
+        $('.nameA').css('margin-left',70*s);
         $('nav').css('margin-left',30*s);
         $('nav').css('width',900*s);
         $('.shou').css('width',75*s);

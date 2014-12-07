@@ -612,6 +612,80 @@ layout: base
        <p>代销店</p>
      </div>
    </div>
+   <div class="live" id="live9">
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/shop/l1.jpg"/>         
+       </a>
+       <p>代销店</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/shop/l2.jpg"/>         
+       </a>
+       <p>代销店</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/shop/l3.jpg"/>         
+       </a>
+       <p>代销店</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/shop/l4.jpg"/>         
+       </a>
+       <p>代销店</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/shop/l5.jpg"/>         
+       </a>
+       <p>代销店</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/shop/l6.jpg"/>         
+       </a>
+       <p>代销店</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/shop/l7.jpg"/>         
+       </a>
+       <p>代销店</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/shop/l8.jpg"/>         
+       </a>
+       <p>代销店</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/shop/l9.jpg"/>         
+       </a>
+       <p>代销店</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/shop/l10.jpg"/>         
+       </a>
+       <p>代销店</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/shop/l11.jpg"/>         
+       </a>
+       <p>代销店</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/shop/l12.jpg"/>         
+       </a>
+       <p>代销店</p>
+     </div>
+   </div>
    <script>
      $(function(){  
        $('.5').css('background','#E5E2B1');      

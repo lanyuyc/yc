@@ -21,10 +21,9 @@
   <body>
     <header>
       <div id="menu">
-        <div class="nameA">
-        <img src="{{ site.url }}/image/standard.jpg" />
-        <div>沈阳众合易成网<div>
-        </div>
+        <span class="nameA">
+          <img src="{{ site.url }}/image/standard.jpg" />沈阳众合易成网
+        </span>
         <nav>          
           <ul class="ulA">
             <li class="shou">

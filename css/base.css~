@@ -53,7 +53,7 @@ section {
 
 .nameA div { margin-top: 5px; }
 
-.nameA .address { font-size: 18px; }
+.nameA .address { font-size: 18px; margin-top: 2px;}
 
 nav {
   margin-left: 80px;

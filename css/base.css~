@@ -41,7 +41,7 @@ section {
 
 .nameA {
   float: left;
-  margin-left: 60px;
+  margin-left: 80px;
   margin-top: 8px;
   font-size: 22px;
   color: #B40C0C;

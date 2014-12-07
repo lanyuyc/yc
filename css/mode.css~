@@ -1,14 +1,13 @@
-section {
-  width: 1353px;
-}
+
+section { width: 1353px; }
 
 #butt {
   float: left;
   width: 110px;
   margin-top: 30px;
   margin-left: 50px;
+  font-size: 16px;
   color: #2E1D06;
-      
 }
 
 #butt div {
@@ -20,14 +19,17 @@ section {
   background: #F6F7D9;
 }
 
-#live {
+.live {
   float: left;
   width: 1140px;
   margin-left: 10px;
   margin-top: 30px;
+  display: none;
 }
 
-#live div {
+#live1 { display: block; }
+
+.live div {
   float: left;
   margin-left: 20px;
   margin-top: 10px;
@@ -35,21 +37,10 @@ section {
   height: 240px;
 }
 
+.live div img { border: 1px solid #551717; }
+
 .imgMode {
   width: 350px;
   height: 197px;
 }
-
-#live div img {
-  border: 1px solid #551717;
-}
-
-
-
-
-
-
-
-
-
 

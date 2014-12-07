@@ -132,9 +132,7 @@ footer {
   margin-right: auto;
   width: 980px;
   height: 40px;
-  background: #DBDFE1;
-  background: red;
-  
+  background: #DBDFE1;  
 }
 
 #foot .aa {

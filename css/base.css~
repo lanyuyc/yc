@@ -47,7 +47,6 @@ section {
   color: #B40C0C;
   width: 260px;
   height: 52px;
-  background: red;
 }
 
 .nameA img {

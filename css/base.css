@@ -120,6 +120,21 @@ nav {
   font-size: 20px;
 }
 
+footer {
+  height: 40px;
+  font-size: 15px;
+  background: #DBDFE1;
+  color: #363D41;
+}
+
+#foot {
+  margin-left: auto;
+  margin-right: auto;
+  width: 980px;
+  height: 40px;
+  background: #DBDFE1;
+}
+
 #foot .aa {
   float: left;
   margin-left: 150px;
@@ -196,21 +211,6 @@ nav {
   margin-top: 30px;
   text-align: left;
   font-size: 17px;
-}
-
-footer {
-  height: 40px;
-  font-size: 15px;
-  background: #DBDFE1;
-  color: #363D41;
-}
-
-#foot {
-  margin-left: auto;
-  margin-right: auto;
-  width: 980px;
-  height: 40px;
-  background: #DBDFE1;
 }
 
 #intro p { text-indent: 2em; }

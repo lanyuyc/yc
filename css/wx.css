@@ -14,29 +14,6 @@ body {
   margin-right: auto;
 }
 
-#big {
-  border: 6px solid #ffffff;
-  position: absolute;
-  width: 900px;
-  height: 600px;
-  left: 50%;
-  top: 50%;
-  margin-left: -450px;
-  margin-top: -310px;
-  display: none;
-  background: #ffffff;
-  position: fixed;
-}
-
-#close {
-  width: 40px;
-  height: 35px;
-  position: absolute;
-  right: 0;
-  top: 0;
-  background: #ffffff;
-}
-
 header {
   background: #1B5204;
   height: 60px;
@@ -102,6 +79,15 @@ ul li {
   margin-right: auto;
   display: none;
 }
+
+.tai div {
+  float: left;
+  width: 330px;
+  height: 250px;
+  margin-left: 16px;
+  margin-top: 16px;
+  color: #ffffff;
+  background: #3E4044;
 
 #span2 { margin-left: 40px; }
 

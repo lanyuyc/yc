@@ -23,7 +23,9 @@
       <div id="menu">
         <span class="nameA">
           <img src="{{ site.url }}/image/index/standard.jpg" />
-          <div>沈阳众合易成网<br/><div class="address">www.syzhyc.com</div></div>
+          <div>沈阳众合易成网<br/>
+            <div class="address">www.syzhyc.com</div>
+          </div>
         </span>
         <nav>          
           <ul class="ulA">

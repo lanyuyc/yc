@@ -99,6 +99,8 @@ nav {
 
 .ulA { list-style-type: none; }
 
+#menu { font-size: 17px; }
+
 #menu li { color: #0A5A27; }
 
 #menu a {

@@ -50,7 +50,7 @@ section {
   background: red;
 }
 
-.name img {
+.nameA img {
   float: left; 
 }
 

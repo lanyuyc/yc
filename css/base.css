@@ -50,8 +50,12 @@ section {
   background: red;
 }
 
-.name img {
+.nameA img {
   float: left; 
+}
+
+.nameA div {
+  margin-top: 20px;
 }
 
 nav {

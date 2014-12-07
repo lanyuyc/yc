@@ -120,25 +120,24 @@ nav {
   font-size: 20px;
 }
 
-#foot {
-  width: 1353px;
-  font-size: 14px;
-}
-
 #foot .aa {
   float: left;
-  margin-left: 415px;
-  width: 106px;
-  height: 20px;
+  margin-left: 150px;
+  width: 86px;
+  height: 17px;
   border-right: 1px solid #363D41;
 }
 
 #foot .bb {
   float: left;
-  width: 106px;
-  height: 20px;
+  width: 86px;
+  height: 17px;
   border-right: 1px solid #363D41;
 }
+
+#bei { margin-left: 200px; }
+
+#foot div { margin-top: 10px; }
 
 #foot #bb { border-right: 0; }
 
@@ -199,9 +198,8 @@ nav {
   font-size: 17px;
 }
 
-
 footer {
-  height: 30px;
+  height: 40px;
   font-size: 15px;
   background: #DBDFE1;
   color: #363D41;
@@ -210,7 +208,9 @@ footer {
 #foot {
   margin-left: auto;
   margin-right: auto;
+  width: 980px;
   height: 40px;
+  font-size: 14px;
   background: #DBDFE1;     
 }
 

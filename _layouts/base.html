@@ -52,12 +52,10 @@
         </nav>
       </div>   
     </header>
-
     <section>
       {{ content }}           
       <div class="clearA"></div>
     </section>
-
     <script>
       $(function(){
         var s=[$(window).width()]/1353;
@@ -70,21 +68,10 @@
         $('.shou').css('width',75*s);
         $('.duo').css('width',90*s);
         $('.te').css('width',103*s);
-        $('footer').css('height',40*s);
-        $('#foot').css('width',1353*s);
-        $('#foot').css('font-size',15*s);
-        $('#foot').css('height',40*s);                       
-        $('#foot div').css('margin-top',10*s);
-        $('#bei').css('margin-left',200*s);
-        $('.aa').css('margin-left',150*s);
-        $('.aa').css('width',86*s);
-        $('.aa').css('height',17*s);                        
-        $('.bb').css('width',86*s);
-        $('.bb').css('height',17*s);                      
       })                        
     </script>
 
-　　  <footer>
+   <footer>
       <div id="foot">
         <div class="aa">
           <a href="{{ site.url }}/intro">网站介绍</a>

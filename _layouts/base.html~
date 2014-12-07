@@ -21,7 +21,7 @@
   <body>
     <header>
       <div id="menu">
-        <span class="nameA"><img src="{{ site.url }}/image/index/standard.jpg" />沈阳众合易成网</span>
+        <span class="nameA"><img src="{{ site.url }}/image/standard.jpg" />沈阳众合易成网</span>
         <nav>          
           <ul class="ulA">
             <li class="shou">
@@ -64,7 +64,7 @@
         $('.nameA').css('margin-left',60*s);
         $('.nameA').css('font-size',26*s);
         $('nav').css('margin-left',95*s);
-        $('nav').css('width',1000*s);
+        $('nav').css('width',900*s);
         $('.shou').css('width',75*s);
         $('.duo').css('width',90*s);
         $('.te').css('width',103*s);

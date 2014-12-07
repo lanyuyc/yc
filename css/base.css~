@@ -276,49 +276,7 @@ video {
   margin-top: 2px;
 }
 
-/* te.html */
 
-.cate {
-  float: left;
-  width: 1300px;
-  height: 260px;
-  background: #B3A581;
-  margin-left: 28px;
-  margin-top: 10px;
-}
-
-.cate .pic {
-  float: left;
-  margin-left: 25px;
-  margin-top: 25px;
-  width: 350px;
-}
-
-.cate .intro {
-  float: left;
-  width: 780px;
-  margin-top: 25px;
-  margin-left: 60px;
-  text-align: left;
-  font-size: 18px;
-}
-
-.intro p { text-indent: 2em; }
-
-.imgA {
-  width: 350px;
-  height: 210px;
-}
-
-#xin { height: 860px; }
-
-#da { height: 760px; }
-
-#hai { height: 260px; }
-
-#tian { height: 840px; }
-
-#gai { height: 260px; }
 
 
 

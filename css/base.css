@@ -222,6 +222,10 @@ footer {
   margin-top: 6px;
 }
 
+.extend .tel {
+  margin-top: 30px;
+}
+
 #declare {
   line-height: 30px;
   width: 800px;

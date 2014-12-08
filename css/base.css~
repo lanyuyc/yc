@@ -225,6 +225,7 @@ footer {
 .extend .tel {
   margin-top: 30px;
   font-weight: 700;
+  text-indent: 1em;
 }
 
 #declare {

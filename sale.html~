@@ -3,16 +3,91 @@ layout: base
 ---
 
    <div id="butt">
-     <div class="1">蔬菜</div>
-     <div class="2">水果</div>
+     <div class="1">品牌区</div>
+     <div class="2">蔬菜</div>
+     <div class="3">水果</div>
      <div class="4">干果</div>
-     <div class="3">水产品</div>
-     <div class="5">肉类</div>
-     <div class="6">蛋类</div>
-     <div class="7">粮油</div>
-     <div class="8">调料</div>
+     <div class="5">水产品</div>
+     <div class="6">肉类</div>
+     <div class="7">蛋类</div>
+     <div class="8">粮油</div>
+     <div class="9">调料</div>
    </div>
    <div class="live" id="live1">
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/a1.jpg"/>         
+       </a>
+       <p>品牌区</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/a2.jpg"/>         
+       </a>
+       <p>品牌区</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/a3.jpg"/>         
+       </a>
+       <p>品牌区</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/a4.jpg"/>         
+       </a>
+       <p>品牌区</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/a5.jpg"/>         
+       </a>
+       <p>品牌区</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/a6.jpg"/>         
+       </a>
+       <p>品牌区</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/a7.jpg"/>         
+       </a>
+       <p>品牌区</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/a8.jpg"/>         
+       </a>
+       <p>品牌区</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/a9.jpg"/>         
+       </a>
+       <p>品牌区</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/a10.jpg"/>         
+       </a>
+       <p>品牌区</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/a11.jpg"/>         
+       </a>
+       <p>品牌区</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/a12.jpg"/>         
+       </a>
+       <p>品牌区</p>
+     </div>
+   </div>
+   <div class="live" id="live2">
      <div>
        <a href="">
          <img class="imgMode" src="{{ site.url }}/image/sale/h1.jpg"/>         
@@ -86,7 +161,7 @@ layout: base
        <p>蔬菜</p>
      </div>
    </div>
-   <div class="live" id="live2">
+   <div class="live" id="live3">
      <div>
        <a href="">
          <img class="imgMode" src="{{ site.url }}/image/sale/j1.jpg"/>         
@@ -160,81 +235,6 @@ layout: base
        <p>水果</p>
      </div>
    </div>
-    <div class="live" id="live3">
-     <div>
-       <a href="{{ site.url }}/dhfPro">
-         <img class="imgMode" src="{{ site.url }}/image/sale/f1.jpg"/>         
-       </a>
-       <p>大伙房有机河鱼</p>
-     </div>
-     <div>
-       <a href="">
-         <img class="imgMode" src="{{ site.url }}/image/sale/f2.jpg"/>         
-       </a>
-       <p>水产品</p>
-     </div>
-     <div>
-       <a href="">
-         <img class="imgMode" src="{{ site.url }}/image/sale/f3.jpg"/>         
-       </a>
-       <p>水产品</p>
-     </div>
-     <div>
-       <a href="">
-         <img class="imgMode" src="{{ site.url }}/image/sale/f4.jpg"/>         
-       </a>
-       <p>水产品</p>
-     </div>
-     <div>
-       <a href="">
-         <img class="imgMode" src="{{ site.url }}/image/sale/f5.jpg"/>         
-       </a>
-       <p>水产品</p>
-     </div>
-     <div>
-       <a href="">
-         <img class="imgMode" src="{{ site.url }}/image/sale/f6.jpg"/>         
-       </a>
-       <p>水产品</p>
-     </div>
-     <div>
-       <a href="">
-         <img class="imgMode" src="{{ site.url }}/image/sale/f7.jpg"/>         
-       </a>
-       <p>水产品</p>
-     </div>
-     <div>
-       <a href="">
-         <img class="imgMode" src="{{ site.url }}/image/sale/f8.jpg"/>         
-       </a>
-       <p>水产品</p>
-     </div>
-     <div>
-       <a href="">
-         <img class="imgMode" src="{{ site.url }}/image/sale/f9.jpg"/>         
-       </a>
-       <p>水产品</p>
-     </div>
-     <div>
-       <a href="">
-         <img class="imgMode" src="{{ site.url }}/image/sale/f10.jpg"/>         
-       </a>
-       <p>水产品</p>
-     </div>
-     <div>
-       <a href="">
-         <img class="imgMode" src="{{ site.url }}/image/sale/f11.jpg"/>         
-       </a>
-       <p>水产品</p>
-     </div>
-     <div>
-       <a href="">
-         <img class="imgMode" src="{{ site.url }}/image/sale/f12.jpg"/>         
-       </a>
-       <p>水产品</p>
-     </div>
-   </div>
- 
    <div class="live" id="live4">
      <div>
        <a href="">
@@ -309,8 +309,82 @@ layout: base
        <p>干果</p>
      </div>
    </div>
+    <div class="live" id="live5">
+     <div>
+       <a href="{{ site.url }}/dhfPro">
+         <img class="imgMode" src="{{ site.url }}/image/sale/f1.jpg"/>         
+       </a>
+       <p>大伙房有机河鱼</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/f2.jpg"/>         
+       </a>
+       <p>水产品</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/f3.jpg"/>         
+       </a>
+       <p>水产品</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/f4.jpg"/>         
+       </a>
+       <p>水产品</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/f5.jpg"/>         
+       </a>
+       <p>水产品</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/f6.jpg"/>         
+       </a>
+       <p>水产品</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/f7.jpg"/>         
+       </a>
+       <p>水产品</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/f8.jpg"/>         
+       </a>
+       <p>水产品</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/f9.jpg"/>         
+       </a>
+       <p>水产品</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/f10.jpg"/>         
+       </a>
+       <p>水产品</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/f11.jpg"/>         
+       </a>
+       <p>水产品</p>
+     </div>
+     <div>
+       <a href="">
+         <img class="imgMode" src="{{ site.url }}/image/sale/f12.jpg"/>         
+       </a>
+       <p>水产品</p>
+     </div>
+   </div>
  
-   <div class="live" id="live5">
+   <div class="live" id="live6">
      <div>
        <a href="">
          <img class="imgMode" src="{{ site.url }}/image/sale/i1.jpg"/>         
@@ -384,7 +458,7 @@ layout: base
        <p>肉类</p>
      </div>
    </div>
-   <div class="live" id="live6">
+   <div class="live" id="live7">
      <div>
        <a href="">
          <img class="imgMode" src="{{ site.url }}/image/sale/k1.jpg"/>         
@@ -459,7 +533,7 @@ layout: base
      </div>
    </div>
 
-   <div class="live" id="live7">
+   <div class="live" id="live8">
      <div>
        <a href="">
          <img class="imgMode" src="{{ site.url }}/image/sale/l1.jpg"/>         
@@ -534,7 +608,7 @@ layout: base
      </div>
    </div>
 
-   <div class="live" id="live8">
+   <div class="live" id="live9">
      <div>
        <a href="">
          <img class="imgMode" src="{{ site.url }}/image/sale/m1.jpg"/>         
@@ -611,7 +685,7 @@ layout: base
 
    <script>
      $(function(){  
-       $('.1').css('background','#E5E2B1');      
+       $('.9').css('background','#E5E2B1');      
        $('#butt div').click(function(){        
          $('#butt div').css('background','#F6F7D9');
          $(this).css('background','#E5E2B1');

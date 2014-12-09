@@ -22,7 +22,7 @@ layout: base
        <p>菲林格尔地板</p>
      </div>
      <div>
-       <a href="">
+       <a href="http://www.lwjdrqx.com">
          <img class="imgMode" src="{{ site.url }}/image/mode/i2.jpg"/>         
        </a>
        <p>NATUZZI</p>

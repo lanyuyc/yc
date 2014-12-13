@@ -72,7 +72,6 @@
         $('.te').css('width',103*s);
       })                        
     </script>
-
    <footer>
       <div id="foot">
         <div class="aa">

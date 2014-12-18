@@ -316,34 +316,34 @@ layout: base
  
    <div class="live" id="live5">
      <div>
-       <a href="">
+       <a href="{{ site.ur }}/lt400">
          <img class="imgMode" src="{{ site.url }}/image/mode/q1.jpg"/>         
        </a>
        <p>400电话</p>
      </div>
      <div>
-       <a href="">
+       <a href="{{ site.url }}/qy">
          <img class="imgMode" src="{{ site.url }}/image/mode/q2.jpg"/>         
        </a>
        <p>企业彩铃</p>
      </div>
      <div>
-       <a href="">
+       <a href="{{ site.url }}/pos">
          <img class="imgMode" src="{{ site.url }}/image/mode/q3.jpg"/>         
        </a>
-       <p>电脑通讯</p>
+       <p>pos机</p>
      </div>
      <div>
-       <a href="">
+       <a href="{{ site.url }}/dx">
          <img class="imgMode" src="{{ site.url }}/image/mode/q4.jpg"/>         
        </a>
-       <p>电脑通讯</p>
+       <p>短信群发</p>
      </div>
      <div>
-       <a href="">
+       <a href="{{ site.url}}/zj">
          <img class="imgMode" src="{{ site.url }}/image/mode/q5.jpg"/>         
        </a>
-       <p>电脑通讯</p>
+       <p>无线座机</p>
      </div>
      <div>
        <a href="">
@@ -388,7 +388,6 @@ layout: base
        <p>电脑通讯</p>
      </div>
    </div>
-
    <div class="live" id="live6">
      <div>
        <a href="">

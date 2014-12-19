@@ -23,7 +23,7 @@ header {
 
 .title .span1 {
   float: left;
-  margin-left: 60px;
+  margin-left: 120px;
   margin-top: 25px;
   font-size: 33px;
   color: #E71E0F;

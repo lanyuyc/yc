@@ -16,7 +16,7 @@
         <span class="span2"></span>
       </div>      
       <nav>          
-        <ul style="background: blue;">
+        <ul>
           <li class="shou">
             <a href="{{ site.url }}/sx/greens">蔬菜</a>
           </li>

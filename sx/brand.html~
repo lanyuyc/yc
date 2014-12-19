@@ -1,0 +1,10 @@
+---
+layout: sxBase
+---
+    <section>
+      <img class="image" src="{{ site.url }}/image/jiu/jjyp.jpg" />
+    </section>
+
+    <section class="goods" id="goods">
+
+    </section>

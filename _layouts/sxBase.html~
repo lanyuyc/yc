@@ -50,7 +50,7 @@
         <div class="bb" id="bb">
           <a href="{{ site.url }}/contact">联系我们</a>
         </div>
-        <div id="bei">Copyright © 2014 三星生态</div>       
+        <div id="bei">Copyright © 2015 三星生态</div>       
       </div>
     </footer>   
   </body>

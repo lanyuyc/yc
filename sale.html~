@@ -15,7 +15,7 @@ layout: base
    </div>
    <div class="live" id="live1">
      <div>
-       <a href="">
+       <a href="{{ site.url }}/sx/greens">
          <img class="imgMode" src="{{ site.url }}/image/sale/a1.jpg"/>         
        </a>
        <p>三星生态</p>

@@ -4,7 +4,7 @@
     <meta charset="utf-8"/>
     <meta name="Keywords" content="沈阳玖康乐"/>
     <meta name="Description" content="沈阳玖康乐"/>
-    <title>玖康乐</title>
+    <title>三星生态</title>
     <link rel="stylesheet" href="{{ site.url }}/css/sxBase.css"/>
     <link rel="stylesheet" href="{{ site.url }}/css/index.css"/>
     <link rel="stylesheet" href="{{ site.url }}/css/page.css"/>
@@ -13,7 +13,7 @@
   <body>
     <header>
       <div class="title">
-        <span class="span1">玖康乐</span>
+        <span class="span1">三星生态</span>
         <span class="span2">老年团购商城</span>
       </div>      
       <nav>          

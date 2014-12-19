@@ -14,30 +14,24 @@
     <header>
       <div class="title">
         <span class="span1">三星生态</span>
-        <span class="span2">老年团购商城</span>
+        <span class="span2"></span>
       </div>      
       <nav>          
         <ul>
-          <li class="shou">
-            <a href="{{ site.url }}">首页</a>
+          <li class="te">
+            <a href="{{ site.url }}/nutrition">蔬菜</a>
           </li>
           <li class="te">
-            <a href="{{ site.url }}/nutrition">营养保健</a>
-          </li>
-          <li class="te">
-            <a href="{{ site.url }}/jxsp1">精选食品</a>
+            <a href="{{ site.url }}/jxsp1">花卉</a>
           </li>
 　　  <li class="te">
-            <a href="{{ site.url }}/jjyp">居家用品</a>
+            <a href="{{ site.url }}/jjyp">水果</a>
           </li>
           <li class="te">
-            <a href="{{ site.url }}/jkhl">健康护理</a>
+            <a href="{{ site.url }}/jkhl">生态园</a>
           </li>
 　　  <li class="te">
-            <a href="{{ site.url }}/zbys">滋补养生</a>
-          </li>
-          <li class="te">
-            <a href="{{ site.url }}/jllp">敬老礼品</a>
+            <a href="{{ site.url }}/zbys">品牌介绍</a>
           </li>
         </ul> 
       </nav>      
@@ -60,7 +54,7 @@
         <div class="bb" id="bb">
           <a href="{{ site.url }}/contact">联系我们</a>
         </div>
-        <div id="bei">Copyright © 2014 玖康乐</div>       
+        <div id="bei">Copyright © 2014 三星生态</div>       
       </div>
     </footer>   
   </body>

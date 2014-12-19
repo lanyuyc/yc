@@ -21,9 +21,6 @@
           <li class="te">
             <a href="{{ site.url }}/sx/greens">蔬菜</a>
           </li>
-          <li class="te">
-            <a href="{{ site.url }}/jxsp1">花卉</a>
-          </li>
 　　  <li class="te">
             <a href="{{ site.url }}/jjyp">水果</a>
           </li>

@@ -65,6 +65,14 @@ nav .te {
   line-height: 35px;
 }
 
+nav .shou {
+  float: left;
+  width: 80px;
+  height: 35px;
+  margin-left: 40px;
+  line-height: 35px;
+}
+
 .goods {
   width: 980px;
   height: 3250px;

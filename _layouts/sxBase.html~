@@ -24,7 +24,7 @@
             <a href="{{ site.url }}/sx/fruits">南方水果</a>
           </li>
           <li class="st">
-            <a href="{{ site.url }}/sx/park">生态园</a>
+            <a href="{{ site.url }}/sx/park">礼品菜</a>
           </li>
 　　  <li class="pp">
             <a href="{{ site.url }}/sx/brand">品牌认证</a>

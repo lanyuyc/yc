@@ -56,6 +56,13 @@ nav a {
   color: #fff;
 }
 
+nav .shou {
+  float: left;
+  width: 80px;
+  height: 35px;
+  margin-left: 80px;
+  line-height: 35px;
+}
 
 nav .te {
   float: left;
@@ -65,11 +72,19 @@ nav .te {
   line-height: 35px;
 }
 
-nav .shou {
+nav .st {
   float: left;
-  width: 80px;
+  width: 100px;
   height: 35px;
-  margin-left: 80px;
+  margin-left: 10px;
+  line-height: 35px;
+}
+
+nav .pp {
+  float: left;
+  width: 120px;
+  height: 35px;
+  margin-left: 10px;
   line-height: 35px;
 }
 

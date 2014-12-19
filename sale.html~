@@ -18,7 +18,7 @@ layout: base
        <a href="">
          <img class="imgMode" src="{{ site.url }}/image/sale/a1.jpg"/>         
        </a>
-       <p>品牌区</p>
+       <p>三星生态</p>
      </div>
      <div>
        <a href="">

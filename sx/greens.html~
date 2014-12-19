@@ -10,49 +10,49 @@ layout: sxBase
        <a href="">
          <img src="{{ site.url }}/image/sx/ls1.jpg"/>
        </a>
-       <p class="name"></p>
+       <p class="name">玛利亚黄瓜</p>
        <p class="group">优惠价：￥0元</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/sx/ls2.jpg"/>         
        </a>
-       <p class="name"></p>
+       <p class="name">绿尖椒</p>
        <p class="group">优惠价：￥0元</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/sx/ls3.jpg"/>         
        </a>
-       <p class="name"></p>
+       <p class="name">紫圆茄</p>
        <p class="group">优惠价：￥0元</p> 
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/sx/ls4.jpg"/>         
        </a>
-       <p class="name"></p>
+       <p class="name">小彩椒</p>
        <p class="group">优惠价：￥0元</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/sx/ls5.jpg"/>         
        </a>
-       <p class="name"></p>
+       <p class="name">绿云豆</p>
        <p class="group">优惠价：￥0元</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/sx/ls6.jpg"/>         
        </a>
-       <p class="name"></p>
+       <p class="name">红云豆</p>
        <p class="group">优惠价：￥0元</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/sx/ls7.jpg"/>         
        </a>
-       <p class="name"></p>
+       <p class="name">西葫芦</p>
        <p class="group">优惠价：￥0元</p>
      </div>
      <div>

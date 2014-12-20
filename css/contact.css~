@@ -14,6 +14,11 @@
   width: 350px;
 }
 
+#sub {
+  float: left;
+  width: 600px;
+}
+
 #office {
   float: left;
   width: 200px;

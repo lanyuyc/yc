@@ -32,21 +32,21 @@ layout: sxBase
          <img src="{{ site.url }}/image/sx/lp4.jpg"/>         
        </a>
        <p class="name">八品装</p>
-       <p class="group">优惠价：￥400元</p>
+       <p class="group">优惠价：￥400元/盒</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/sx/lp5.jpg"/>         
        </a>
        <p class="name">八品装</p>
-       <p class="group">优惠价：￥400元</p>
+       <p class="group">优惠价：￥400元／盒</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/sx/lp6.jpg"/>         
        </a>
        <p class="name">八品装</p>
-       <p class="group">优惠价：￥400元</p>
+       <p class="group">优惠价：￥400元／盒</p>
      </div>
      <div>
        <a href="">

@@ -20,6 +20,8 @@
   height: 800px;
 }
 
+#sub p { margin-top: 10px; }
+
 #office {
   float: left;
   width: 200px;

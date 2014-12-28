@@ -317,10 +317,10 @@ layout: base
        <p>大伙房有机河鱼</p>
      </div>
      <div>
-       <a href="">
+       <a href="{{ site.url }}/hxf/greens">
          <img class="imgMode" src="{{ site.url }}/image/sale/f2.jpg"/>         
        </a>
-       <p>水产品</p>
+       <p>海鲜坊</p>
      </div>
      <div>
        <a href="">

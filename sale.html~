@@ -320,7 +320,7 @@ layout: base
        <a href="{{ site.url }}/hxf/greens">
          <img class="imgMode" src="{{ site.url }}/image/sale/f2.jpg"/>         
        </a>
-       <p>海鲜坊</p>
+       <p>海鲜</p>
      </div>
      <div>
        <a href="">

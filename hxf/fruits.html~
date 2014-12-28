@@ -2,7 +2,7 @@
 layout: hxfBase
 ---
     <section>
-      <img class="image" src="{{ site.url }}/image/hxf/greens.jpg" />
+      <img class="image" src="{{ site.url }}/image/hxf/logo.jpg" />
     </section>
 
     <section class="goods" id="goods">

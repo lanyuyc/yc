@@ -4,7 +4,7 @@
     <meta charset="utf-8"/>
     <meta name="Keywords" content="三星生态"/>
     <meta name="Description" content="三星生态"/>
-    <title>海鲜坊</title>
+    <title>海鲜</title>
     <link rel="stylesheet" href="{{ site.url }}/css/sxBase.css"/>
     <link rel="stylesheet" href="{{ site.url }}/css/page.css"/>
     <script src="{{ site.url }}/js/jquery-2.0.3.min.js"></script>
@@ -12,7 +12,7 @@
   <body>
     <header>
       <div class="title">
-        <span class="span1">海鲜坊</span>
+        <span class="span1">海鲜</span>
         <span class="span2"></span>
       </div>      
       <nav>          
@@ -21,13 +21,13 @@
             <a href="{{ site.url }}/hxf/greens">海鲜</a>
           </li>
           <li class="st">
-            <a href="{{ site.url }}/hxf/park"></a>
+            <a href="{{ site.url }}/hxf/park">海鲜</a>
           </li>
 　　  <li class="te">
-            <a href="{{ site.url }}/hxf/fruits"></a>
+            <a href="{{ site.url }}/hxf/fruits">海鲜</a>
           </li>
 　　  <li class="pp">
-            <a href="{{ site.url }}/hxf/brand">品牌</a>
+            <a href="{{ site.url }}/hxf/brand">海鲜</a>
           </li>
         </ul> 
       </nav>      
@@ -41,7 +41,7 @@
       </script>
     <footer>
       <div id="foot">
-        <div id="bei">Copyright © 2015 海鲜坊</div>       
+        <div id="bei">Copyright © 2015 海鲜</div>       
       </div>
     </footer>   
   </body>

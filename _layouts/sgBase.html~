@@ -18,16 +18,16 @@
       <nav>          
         <ul>
           <li class="shou">
-            <a href="{{ site.url }}/zl/greens">南方水果</a>
+            <a href="{{ site.url }}/sg/greens">南方水果</a>
           </li>
           <li class="st">
-            <a href="{{ site.url }}/zl/park">北方水果</a>
+            <a href="{{ site.url }}/sg/park">北方水果</a>
           </li>
 　　  <li class="te">
-            <a href="{{ site.url }}/zl/fruits">进口水果</a>
+            <a href="{{ site.url }}/sg/fruits">进口水果</a>
           </li>
 　　  <li class="pp">
-            <a href="{{ site.url }}/zl/brand">其它水果</a>
+            <a href="{{ site.url }}/sg/brand">其它水果</a>
           </li>
         </ul> 
       </nav>      

@@ -2,153 +2,153 @@
 layout: zlBase
 ---
     <section>
-      <img class="image" src="{{ site.url }}/image/hxf/logo.jpg" />
+      <img class="image" src="{{ site.url }}/image/zl/logo.jpg" />
     </section>
 
     <section class="goods" id="goods">
      <div>
        <a href="">
-         <img src="{{ site.url }}/image/hxf/bl1.jpg"/>
+         <img src="{{ site.url }}/image/zl/zd1.jpg"/>
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥200元／盒</p>
+       <p class="group">优惠价：￥</p>
      </div>
      <div>
        <a href="">
-         <img src="{{ site.url }}/image/hxf/bl2.jpg"/>         
+         <img src="{{ site.url }}/image/zl/zd2.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥200元／盒</p>
+       <p class="group">优惠价：￥</p>
      </div>
      <div>
        <a href="">
-         <img src="{{ site.url }}/image/hxf/bl3.jpg"/>         
+         <img src="{{ site.url }}/image/zl/zd3.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥200元／盒</p> 
+       <p class="group">优惠价：￥</p> 
      </div>
      <div>
        <a href="">
-         <img src="{{ site.url }}/image/hxf/bl4.jpg"/>         
+         <img src="{{ site.url }}/image/zl/zd4.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥400元／盒</p>
+       <p class="group">优惠价：￥</p>
      </div>
      <div>
        <a href="">
-         <img src="{{ site.url }}/image/hxf/bl5.jpg"/>         
+         <img src="{{ site.url }}/image/zl/zd5.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥400元／盒</p>
+       <p class="group">优惠价：￥</p>
      </div>
      <div>
        <a href="">
-         <img src="{{ site.url }}/image/hxf/bl6.jpg"/>         
+         <img src="{{ site.url }}/image/zl/zd6.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥400元／盒</p>
+       <p class="group">优惠价：￥</p>
      </div>
      <div>
        <a href="">
-         <img src="{{ site.url }}/image/hxf/bl7.jpg"/>         
+         <img src="{{ site.url }}/image/zl/zd7.jpg"/>         
        </a>
        <p class="name"></p>
        <p class="group">优惠价：￥0元</p>
      </div>
      <div>
        <a href="">
-         <img src="{{ site.url }}/image/hxf/bl8.jpg"/>         
+         <img src="{{ site.url }}/image/zl/zd8.jpg"/>         
        </a>
        <p class="name"></p>
        <p class="group">优惠价：￥0元</p>
      </div>
      <div>
        <a href="">
-         <img src="{{ site.url }}/image/hxf/bl9.jpg"/>         
+         <img src="{{ site.url }}/image/zl/zd9.jpg"/>         
        </a>
        <p class="name"></p>
        <p class="group">优惠价：￥0元</p>
      </div>
      <div>
        <a href="">
-         <img src="{{ site.url }}/image/hxf/bl10.jpg"/>         
-       </a>
-       <p class="name"></p>
-       <p class="group">优惠价：￥0元</p>
-      </div>
-     <div>
-       <a href="">
-         <img src="{{ site.url }}/image/hxf/bl11.jpg"/>         
-       </a>
-       <p class="name"></p>
-       <p class="group">优惠价：￥0元</p>
-     </div>
-     <div>
-       <a href="">
-         <img src="{{ site.url }}/image/hxf/bl12.jpg"/>         
-       </a>
-       <p class="name"></p>
-       <p class="group">优惠价：￥0元</p>
-     </div>
-     <div>
-       <a href="">
-         <img src="{{ site.url }}/image/hxf/bl13.jpg"/>         
-       </a>
-       <p class="name"></p>
-       <p class="group">优惠价：￥0元</p>
-     </div>
-     <div>
-       <a href="">
-         <img src="{{ site.url }}/image/hxf/bl14.jpg"/>         
-       </a>
-       <p class="name"></p>
-       <p class="group">优惠价：￥0元</p>
-     </div>
-     <div>
-       <a href="">
-         <img src="{{ site.url }}/image/hxf/bl15.jpg"/>         
+         <img src="{{ site.url }}/image/zl/zd10.jpg"/>         
        </a>
        <p class="name"></p>
        <p class="group">优惠价：￥0元</p>
       </div>
      <div>
        <a href="">
-         <img src="{{ site.url }}/image/hxf/bl16.jpg"/>         
+         <img src="{{ site.url }}/image/zl/zd11.jpg"/>         
        </a>
        <p class="name"></p>
        <p class="group">优惠价：￥0元</p>
      </div>
      <div>
        <a href="">
-         <img src="{{ site.url }}/image/hxf/bl17.jpg"/>         
+         <img src="{{ site.url }}/image/zl/zd12.jpg"/>         
        </a>
        <p class="name"></p>
        <p class="group">优惠价：￥0元</p>
      </div>
      <div>
        <a href="">
-         <img src="{{ site.url }}/image/hxf/bl18.jpg"/>         
+         <img src="{{ site.url }}/image/zl/zd13.jpg"/>         
        </a>
        <p class="name"></p>
        <p class="group">优惠价：￥0元</p>
      </div>
      <div>
        <a href="">
-         <img src="{{ site.url }}/image/hxf/bl19.jpg"/>         
+         <img src="{{ site.url }}/image/zl/zd14.jpg"/>         
        </a>
        <p class="name"></p>
        <p class="group">优惠价：￥0元</p>
      </div>
      <div>
        <a href="">
-         <img src="{{ site.url }}/image/hxf/bl20.jpg"/>         
+         <img src="{{ site.url }}/image/zl/zd15.jpg"/>         
+       </a>
+       <p class="name"></p>
+       <p class="group">优惠价：￥0元</p>
+      </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/zl/zd16.jpg"/>         
        </a>
        <p class="name"></p>
        <p class="group">优惠价：￥0元</p>
      </div>
      <div>
        <a href="">
-         <img src="{{ site.url }}/image/hxf/bl21.jpg"/>         
+         <img src="{{ site.url }}/image/zl/zd17.jpg"/>         
+       </a>
+       <p class="name"></p>
+       <p class="group">优惠价：￥0元</p>
+     </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/zl/zd18.jpg"/>         
+       </a>
+       <p class="name"></p>
+       <p class="group">优惠价：￥0元</p>
+     </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/zl/zd19.jpg"/>         
+       </a>
+       <p class="name"></p>
+       <p class="group">优惠价：￥0元</p>
+     </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/zl/zd20.jpg"/>         
+       </a>
+       <p class="name"></p>
+       <p class="group">优惠价：￥0元</p>
+     </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/zl/zd21.jpg"/>         
        </a>
        <p class="name"></p>
        <p class="group">优惠价：￥0元</p>

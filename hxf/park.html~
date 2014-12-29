@@ -11,42 +11,42 @@ layout: hxfBase
          <img src="{{ site.url }}/image/hxf/bl1.jpg"/>
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥200元／盒</p>
+       <p class="group">优惠价：￥0元／</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/hxf/bl2.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥200元／盒</p>
+       <p class="group">优惠价：￥0元／</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/hxf/bl3.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥200元／盒</p> 
+       <p class="group">优惠价：￥0元／</p> 
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/hxf/bl4.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥400元／盒</p>
+       <p class="group">优惠价：￥0元／</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/hxf/bl5.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥400元／盒</p>
+       <p class="group">优惠价：￥0元／</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/hxf/bl6.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥400元／盒</p>
+       <p class="group">优惠价：￥0元／</p>
      </div>
      <div>
        <a href="">

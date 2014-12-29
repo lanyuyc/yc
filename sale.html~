@@ -89,10 +89,10 @@ layout: base
    </div>
    <div class="live" id="live2">
      <div>
-       <a href="">
+       <a href="{{ site.url }}/gc/greens">
          <img class="imgMode" src="{{ site.url }}/image/sale/h1.jpg"/>         
        </a>
-       <p>蔬菜</p>
+       <p>干菜</p>
      </div>
      <div>
        <a href="{{ site.url }}/wxPro">

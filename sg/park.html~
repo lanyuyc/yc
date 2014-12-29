@@ -11,42 +11,42 @@ layout: sgBase
          <img src="{{ site.url }}/image/sg/bf1.jpg"/>
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥200元／盒</p>
+       <p class="group">优惠价：￥0元</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/sg/bf2.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥200元／盒</p>
+       <p class="group">优惠价：￥0元</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/sg/bf3.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥200元／盒</p> 
+       <p class="group">优惠价：￥0元</p> 
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/sg/bf4.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥400元／盒</p>
+       <p class="group">优惠价：￥0元</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/sg/bf5.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥400元／盒</p>
+       <p class="group">优惠价：￥0元</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/sg/bf6.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥400元／盒</p>
+       <p class="group">优惠价：￥0元</p>
      </div>
      <div>
        <a href="">

@@ -7,42 +7,42 @@ layout: gcBase
          <img src="{{ site.url }}/image/sg/jl1.jpg"/>
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥200元／盒</p>
+       <p class="group">优惠价：￥</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/sg/jl2.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥200元／盒</p>
+       <p class="group">优惠价：￥</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/sg/jl3.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥200元／盒</p> 
+       <p class="group">优惠价：￥</p> 
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/sg/jl4.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥400元／盒</p>
+       <p class="group">优惠价：￥</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/sg/jl5.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥400元／盒</p>
+       <p class="group">优惠价：￥</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/sg/jl6.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥400元／盒</p>
+       <p class="group">优惠价：￥</p>
      </div>
      <div>
        <a href="">

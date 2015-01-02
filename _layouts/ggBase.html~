@@ -5,7 +5,7 @@
     <meta name="Keywords" content="干果"/>
     <meta name="Description" content="干果"/>
     <title>干果</title>
-    <link rel="stylesheet" href="{{ site.url }}/css/sxBase.css"/>
+    <link rel="stylesheet" href="{{ site.url }}/css/ggBase.css"/>
     <link rel="stylesheet" href="{{ site.url }}/css/page.css"/>
     <script src="{{ site.url }}/js/jquery-2.0.3.min.js"></script>
   </head>
@@ -18,16 +18,16 @@
       <nav>          
         <ul>
           <li class="shou">
-            <a href="{{ site.url }}/sx/greens">干制坚果</a>
+            <a href="{{ site.url }}/gg/greens">干制坚果</a>
           </li>
           <li class="st">
-            <a href="{{ site.url }}/sx/park">干制果实</a>
+            <a href="{{ site.url }}/gg/park">干制果实</a>
           </li>
 　　  <li class="te">
-            <a href="{{ site.url }}/sx/fruits">干制果肉</a>
+            <a href="{{ site.url }}/gg/fruits">干制果肉</a>
           </li>
 　　  <li class="pp">
-            <a href="{{ site.url }}/sx/brand">干制种仁</a>
+            <a href="{{ site.url }}/gg/brand">干制种仁</a>
           </li>
         </ul> 
       </nav>      

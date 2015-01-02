@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="Keywords" content="干果"/>
+    <meta name="Description" content="干果"/>
+    <title>干果</title>
+    <link rel="stylesheet" href="{{ site.url }}/css/sxBase.css"/>
+    <link rel="stylesheet" href="{{ site.url }}/css/page.css"/>
+    <script src="{{ site.url }}/js/jquery-2.0.3.min.js"></script>
+  </head>
+  <body>
+    <header>
+      <div class="title">
+        <span class="span1">干果</span>
+        <span class="span2"></span>
+      </div>      
+      <nav>          
+        <ul>
+          <li class="shou">
+            <a href="{{ site.url }}/sx/greens">干制坚果</a>
+          </li>
+          <li class="st">
+            <a href="{{ site.url }}/sx/park">干制果实</a>
+          </li>
+　　  <li class="te">
+            <a href="{{ site.url }}/sx/fruits">干制果肉</a>
+          </li>
+　　  <li class="pp">
+            <a href="{{ site.url }}/sx/brand">干制种仁</a>
+          </li>
+        </ul> 
+      </nav>      
+    </header>    
+      {{ content }}
+      <script>
+        $(function(){
+          var w=$(window).width();
+          $('.image').css('width',w);
+        });
+      </script>
+    <footer>
+      <div id="foot">
+        <div id="bei">Copyright © 2015 干果</div>       
+      </div>
+    </footer>   
+  </body>
+</html>

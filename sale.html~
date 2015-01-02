@@ -237,7 +237,7 @@ layout: base
    </div>
    <div class="live" id="live4">
      <div>
-       <a href="">
+       <a href="{{ site.url }}/gg/greens">
          <img class="imgMode" src="{{ site.url }}/image/sale/g1.jpg"/>         
        </a>
        <p>干果</p>

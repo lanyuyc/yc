@@ -70,6 +70,7 @@ nav .te {
   height: 80px;
   line-height: 80px;
   margin-left: 10px;
+  background: red;
 }
 
 .goods {

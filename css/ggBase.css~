@@ -25,7 +25,7 @@ header {
   float: left;
   margin-left: 120px;
   margin-top: 25px;
-  font-size: 37px;
+  font-size: 39px;
   color: #E71E0F;
 }
 
@@ -38,7 +38,7 @@ header {
 }
 
 nav {
-  font-size: 28px;
+  font-size: 30px;
   background: #006400;
 }
 

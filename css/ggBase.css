@@ -72,23 +72,6 @@ nav .te {
   margin-left: 10px;
 }
 
-nav .st {
-  float: left;
-  width: 180px;
-  height: 70px;
-  line-height: 70px;
-  margin-left: 10px;
-}
-
-nav .pp {
-  float: left;
-  width: 180px;
-  height: 70px;  
-  line-height: 70px;
-  margin-left: 10px;
-  background: blue;
-}
-
 .goods {
   width: 980px;
   height: 4280px;

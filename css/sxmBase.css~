@@ -61,7 +61,7 @@ nav .shou {
   width: 220px;
   height: 120px;
   line-height: 120px;
-  margin-left: 70px;
+  margin-left: 50px;
 }
 
 nav .te {

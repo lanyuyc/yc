@@ -1,5 +1,5 @@
 ---
-layout: dhfBase
+layout: dhfmBase
 ---
     <section>
       <img class="image" src="{{ site.url }}/image/dhf/logo.jpg" />

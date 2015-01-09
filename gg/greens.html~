@@ -7,97 +7,97 @@ layout: ggBase
          <img src="{{ site.url }}/image/gg/jg1.jpg"/>
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥元/500g</p>
+       <p class="group">￥元/500g</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/gg/jg2.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥元/500g</p>
+       <p class="group">￥元/500g</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/gg/jg3.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥元/500g</p> 
+       <p class="group">￥元/500g</p> 
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/gg/jg4.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥元/500g</p>
+       <p class="group">￥元/500g</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/gg/jg5.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥元/500g</p>
+       <p class="group">￥元/500g</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/gg/jg6.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥元/500g</p>
+       <p class="group">￥元/500g</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/gg/jg7.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥元/500g</p>
+       <p class="group">￥元/500g</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/gg/jg8.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥元/500g</p>
+       <p class="group">￥元/500g</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/gg/jg9.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥元/500g</p>
+       <p class="group">￥元/500g</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/gg/jg10.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥元/500g</p>
+       <p class="group">￥元/500g</p>
       </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/gg/jg11.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥元/500g</p>
+       <p class="group">￥元/500g</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/gg/jg12.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥元/500g</p>
+       <p class="group">￥元/500g</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/gg/jg13.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥元/500g</p>
+       <p class="group">￥元/500g</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/gg/jg14.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥元/500g</p>
+       <p class="group">￥元/500g</p>
      </div>
   </section>

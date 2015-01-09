@@ -149,7 +149,7 @@ footer {
 .group {
   font-size: 47px;
   color: #E71E0F;
-  height: 42px;
+  height: 48px;
 }
 
 

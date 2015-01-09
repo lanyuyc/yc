@@ -95,7 +95,7 @@ nav .te {
 
 footer {
   height: 60px;
-  font-size: 17px;
+  font-size: 30px;
   background: #fff;
   color: #363D41;
 }
@@ -107,25 +107,6 @@ footer {
   height: 60px;
   background: #fff;
 }
-
-#foot .aa {
-  float: left;
-  margin-left: 40px;
-  margin-top:  20px;
-  width: 106px;
-  height: 24px;
-  border-right: 1px solid #363D41;
-}
-
-#foot .bb {
-  float: left;
-  margin-top: 20px;
-  width: 106px;
-  height: 24px;
-  border-right: 1px solid #363D41;
-}
-
-#foot #bb { border-right: 0; }
 
 #foot a {
   text-decoration: none;

@@ -75,6 +75,16 @@ nav .te {
   background: blue;
 }
 
+nav .pp {
+  float: left;
+  width: 190px;
+  height: 120px;
+  line-height: 120px;
+  margin-left: 0px;
+  background: blue;
+  margin-top: -20px;
+}
+
 .goods {
   width: 980px;
   height: 6680px;

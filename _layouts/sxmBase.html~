@@ -26,7 +26,7 @@
 　　  <li class="te">
             <a href="{{ site.url }}/sxm/fruits">南方水果</a>
           </li>
-　　  <li class="pp">
+　　  <li class="te">
             <a href="{{ site.url }}/sxm/brand">品牌认证</a>
           </li>
         </ul> 

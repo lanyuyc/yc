@@ -72,14 +72,6 @@ nav .te {
   margin-left: 15px;
 }
 
-nav .pp {
-  float: left;
-  width: 200px;
-  height: 120px;
-  line-height: 120px;
-  margin-left: 15px;
-}
-
 .goods {
   width: 980px;
   height: 6680px;

@@ -68,7 +68,7 @@ nav .shou {
 
 nav .te {
   float: left;
-  width: 190px;
+  width: 200px;
   height: 120px;
   line-height: 120px;
   margin-left: 0px;
@@ -77,7 +77,7 @@ nav .te {
 
 nav .pp {
   float: left;
-  width: 190px;
+  width: 200px;
   height: 120px;
   line-height: 120px;
   margin-left: 0px;

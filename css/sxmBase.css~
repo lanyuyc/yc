@@ -24,7 +24,7 @@ header {
 .title .span1 {
   float: left;
   margin-left: 120px;
-  margin-top: 18px;
+  margin-top: 20px;
   font-size: 54px;
   color: #E71E0F;
 }
@@ -62,6 +62,7 @@ nav .shou {
   height: 120px;
   line-height: 120px;
   margin-left: 20px;
+  background: red;
 }
 
 nav .te {

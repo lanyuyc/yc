@@ -88,6 +88,11 @@ nav .te {
   background: #fff;
 }
 
+.goods img {
+  width: 460px;
+}
+
+
 footer {
   height: 60px;
   font-size: 17px;

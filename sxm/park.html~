@@ -146,11 +146,4 @@ layout: sxmBase
        <p class="name"></p>
        <p class="group">优惠价：￥0元</p>
      </div>
-     <div>
-       <a href="">
-         <img src="{{ site.url }}/image/sx/lp21.jpg"/>         
-       </a>
-       <p class="name"></p>
-       <p class="group">优惠价：￥0元</p>
-     </div>  
   </section>

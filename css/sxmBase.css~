@@ -143,7 +143,7 @@ footer {
 .name {
   margin-top: 20px;
   font-size: 48px;
-  height: 58px;
+  height: 62px;
   background: red;
 }
 

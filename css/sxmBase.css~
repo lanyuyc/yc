@@ -74,7 +74,7 @@ nav .te {
 
 .goods {
   width: 980px;
-  height: 6280px;
+  height: 6220px;
   margin-left: auto;
   margin-right: auto;
 }

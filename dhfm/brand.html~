@@ -11,83 +11,83 @@ layout: dhfmBase
          <img src="{{ site.url }}/image/dhf/qt1.jpg"/>
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥0元</p>
+       <p class="group">￥0元</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/dhf/qt2.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥0元</p>
+       <p class="group">￥0元</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/dhf/qt3.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥0元</p> 
+       <p class="group">￥0元</p> 
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/dhf/qt4.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥0元</p>
+       <p class="group">￥0元</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/dhf/qt5.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥0元</p>
+       <p class="group">￥0元</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/dhf/qt6.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥0元</p>
+       <p class="group">￥0元</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/dhf/qt7.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥0元</p>
+       <p class="group">￥0元</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/dhf/qt8.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥0元</p>
+       <p class="group">￥0元</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/dhf/qt9.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥0元</p>
+       <p class="group">￥0元</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/dhf/qt10.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥0元</p>
+       <p class="group">￥0元</p>
       </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/dhf/qt11.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥0元</p>
+       <p class="group">￥0元</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/dhf/qt12.jpg"/>         
        </a>
        <p class="name"></p>
-       <p class="group">优惠价：￥0元</p>
+       <p class="group">￥0元</p>
      </div>
   </section>

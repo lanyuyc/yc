@@ -19,13 +19,13 @@
           <li class="shou">
             <a href="{{ site.url }}/dhfm/greens">有机河鱼</a>
           </li>
-          <li class="st">
+          <li class="te">
             <a href="{{ site.url }}/dhfm/park">盒装河鱼</a>
           </li>
 　　  <li class="te">
             <a href="{{ site.url }}/dhfm/fruits">河鱼制品</a>
           </li>
-　　  <li class="pp">
+　　  <li class="te">
             <a href="{{ site.url }}/dhfm/brand">品牌简介</a>
           </li>
         </ul> 

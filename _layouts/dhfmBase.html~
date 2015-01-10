@@ -18,16 +18,16 @@
       <nav>          
         <ul>
           <li class="shou">
-            <a href="{{ site.url }}/dhf/greens">有机河鱼</a>
+            <a href="{{ site.url }}/dhfm/greens">有机河鱼</a>
           </li>
           <li class="st">
-            <a href="{{ site.url }}/dhf/park">盒装河鱼</a>
+            <a href="{{ site.url }}/dhfm/park">盒装河鱼</a>
           </li>
 　　  <li class="te">
-            <a href="{{ site.url }}/dhf/fruits">河鱼制品</a>
+            <a href="{{ site.url }}/dhfm/fruits">河鱼制品</a>
           </li>
 　　  <li class="pp">
-            <a href="{{ site.url }}/dhf/brand">品牌简介</a>
+            <a href="{{ site.url }}/dhfm/brand">品牌简介</a>
           </li>
         </ul> 
       </nav>      

@@ -18,14 +18,14 @@ layout: dhfBase
          <img src="{{ site.url }}/image/dhf/yj5.jpg"/>         
        </a>
        <p class="name">虫虫</p>
-       <p class="group">优惠价：￥元/500g</p>
+       <p class="group">优惠价：无货</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/dhf/yj6.jpg"/>         
        </a>
        <p class="name">鲫鱼</p>
-       <p class="group">优惠价：￥元/500g</p>
+       <p class="group">优惠价：无货</p>
      </div>
      <div>
        <a href="">
@@ -61,21 +61,21 @@ layout: dhfBase
          <img src="{{ site.url }}/image/dhf/yj11.jpg"/>         
        </a>
        <p class="name">武昌鱼</p>
-       <p class="group">优惠价：￥0元/500g</p>
+       <p class="group">优惠价：无货</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/dhf/yj12.jpg"/>         
        </a>
        <p class="name">有机冻白鲢</p>
-       <p class="group">优惠价：￥0元/500g</p>
+       <p class="group">优惠价：无货</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/dhf/yj1.jpg"/>
        </a>
        <p class="name">嘎鱼</p>
-       <p class="group">优惠价：￥0元/500g</p>
+       <p class="group">优惠价：无货</p>
      </div>
      <div>
        <a href="">
@@ -89,6 +89,6 @@ layout: dhfBase
          <img src="{{ site.url }}/image/dhf/yj3.jpg"/>         
        </a>
        <p class="name">有机活黑鱼</p>
-       <p class="group">优惠价：￥0元/500g</p> 
+       <p class="group">优惠价：无货</p> 
      </div>
   </section>

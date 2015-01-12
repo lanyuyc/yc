@@ -95,7 +95,7 @@ nav .te {
 #jianjie p {
   text-align: left;
   text-indent: 2em; 
-  font-size: 38px;
+  font-size: 39px;
   width: 800px;
   margin-left: 90px;
   margin-top: 20px;

@@ -407,25 +407,25 @@ layout: base
        <a href="">
          <img class="imgMode" src="{{ site.url }}/image/sale/i4.jpg"/>         
        </a>
-       <p>鸡肉</p>
+       <p>驴肉</p>
      </div>
      <div>
        <a href="">
          <img class="imgMode" src="{{ site.url }}/image/sale/i5.jpg"/>         
        </a>
-       <p>鸭肉</p>
+       <p>鸡肉</p>
      </div>
      <div>
        <a href="">
          <img class="imgMode" src="{{ site.url }}/image/sale/i6.jpg"/>         
        </a>
-       <p>鹅肉</p>
+       <p>鸭肉</p>
      </div>
      <div>
        <a href="">
          <img class="imgMode" src="{{ site.url }}/image/sale/i7.jpg"/>         
        </a>
-       <p>肉类</p>
+       <p>鹅肉</p>
      </div>
      <div>
        <a href="">

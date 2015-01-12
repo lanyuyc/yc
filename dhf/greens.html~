@@ -17,7 +17,7 @@ layout: dhfBase
        <a href="">
          <img src="{{ site.url }}/image/dhf/yj2.jpg"/>         
        </a>
-       <p class="name">AA有机活花鲢</p>
+       <p class="name">有机活花鲢</p>
        <p class="group">￥30元/500g(10斤以上)</p>
      </div>
      <div>
@@ -81,6 +81,13 @@ layout: dhfBase
          <img src="{{ site.url }}/image/dhf/yj3.jpg"/>         
        </a>
        <p class="name">有机活黑鱼</p>
+       <p class="group">优惠价：无货</p> 
+     </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/dhf/yj13.jpg"/>         
+       </a>
+       <p class="name">鲫鱼</p>
        <p class="group">优惠价：无货</p> 
      </div>
   </section>

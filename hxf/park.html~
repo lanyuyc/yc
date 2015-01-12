@@ -150,7 +150,7 @@ layout: hxfBase
        <a href="">
          <img src="{{ site.url }}/image/hxf/bl21.jpg"/>         
        </a>
-       <p class="name">21赤贝</p>
+       <p class="name">赤贝</p>
        <p class="group">优惠价：￥0元</p>
      </div>  
   </section>

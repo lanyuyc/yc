@@ -92,6 +92,10 @@ nav .te {
   width: 460px;
 }
 
+#jianjie p {
+  font-size: 20px;
+  text-indent: 2em;  
+}
 
 footer {
   height: 80px;

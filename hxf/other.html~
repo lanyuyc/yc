@@ -1,0 +1,156 @@
+---
+layout: hxfBase
+---
+    <section>
+      <img class="image" src="{{ site.url }}/image/hxf/logo.jpg" />
+    </section>
+
+    <section class="goods" id="goods">
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/hxf/qt1.jpg"/>
+       </a>
+       <p class="name">活海参</p>
+       <p class="group">优惠价：￥0元</p>
+     </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/hxf/qt2.jpg"/>         
+       </a>
+       <p class="name">海胆</p>
+       <p class="group">优惠价：￥0元</p>
+     </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/hxf/qt3.jpg"/>         
+       </a>
+       <p class="name">海肠</p>
+       <p class="group">优惠价：￥0元</p> 
+     </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/hxf/qt4.jpg"/>         
+       </a>
+       <p class="name"></p>
+       <p class="group">优惠价：￥0元</p>
+     </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/hxf/qt5.jpg"/>         
+       </a>
+       <p class="name"></p>
+       <p class="group">优惠价：￥0元</p>
+     </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/hxf/qt6.jpg"/>         
+       </a>
+       <p class="name"></p>
+       <p class="group">优惠价：￥0元</p>
+     </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/hxf/qt7.jpg"/>         
+       </a>
+       <p class="name"></p>
+       <p class="group">优惠价：￥0元</p>
+     </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/hxf/qt8.jpg"/>         
+       </a>
+       <p class="name"></p>
+       <p class="group">优惠价：￥0元</p>
+     </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/hxf/qt9.jpg"/>         
+       </a>
+       <p class="name"></p>
+       <p class="group">优惠价：￥0元</p>
+     </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/hxf/qt10.jpg"/>         
+       </a>
+       <p class="name"></p>
+       <p class="group">优惠价：￥0元</p>
+      </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/hxf/qt11.jpg"/>         
+       </a>
+       <p class="name"></p>
+       <p class="group">优惠价：￥0元</p>
+     </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/hxf/qt12.jpg"/>         
+       </a>
+       <p class="name"></p>
+       <p class="group">优惠价：￥0元</p>
+     </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/hxf/qt13.jpg"/>         
+       </a>
+       <p class="name"></p>
+       <p class="group">优惠价：￥0元</p>
+     </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/hxf/qt14.jpg"/>         
+       </a>
+       <p class="name"></p>
+       <p class="group">优惠价：￥0元</p>
+     </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/hxf/qt15.jpg"/>         
+       </a>
+       <p class="name"></p>
+       <p class="group">优惠价：￥0元</p>
+      </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/hxf/qt16.jpg"/>         
+       </a>
+       <p class="name"></p>
+       <p class="group">优惠价：￥0元</p>
+     </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/hxf/qt17.jpg"/>         
+       </a>
+       <p class="name"></p>
+       <p class="group">优惠价：￥0元</p>
+     </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/hxf/qt18.jpg"/>         
+       </a>
+       <p class="name"></p>
+       <p class="group">优惠价：￥0元</p>
+     </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/hxf/qt19.jpg"/>         
+       </a>
+       <p class="name"></p>
+       <p class="group">优惠价：￥0元</p>
+     </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/hxf/qt20.jpg"/>         
+       </a>
+       <p class="name"></p>
+       <p class="group">优惠价：￥0元</p>
+     </div>
+     <div>
+       <a href="">
+         <img src="{{ site.url }}/image/hxf/qt21.jpg"/>         
+       </a>
+       <p class="name"></p>
+       <p class="group">优惠价：￥0元</p>
+     </div>  
+  </section>

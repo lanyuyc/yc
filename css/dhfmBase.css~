@@ -94,8 +94,9 @@ nav .te {
 
 #jianjie p {
   text-align: left;
+  text-indent: 2em; 
   font-size: 34px;
-  text-indent: 2em;  
+  width: 800px;
 }
 
 footer {

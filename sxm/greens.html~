@@ -25,14 +25,14 @@ layout: sxmBase
          <img src="{{ site.url }}/image/sx/ls3.jpg"/>         
        </a>
        <p class="name">绿尖椒</p>
-       <p class="group">￥5元/500g</p> 
+       <p class="group">￥6元/500g</p> 
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/sx/ls4.jpg"/>         
        </a>
        <p class="name">绿茄子</p>
-       <p class="group">￥4元/500g</p>
+       <p class="group">￥5元/500g</p>
      </div>
      <div>
        <a href="">
@@ -60,7 +60,7 @@ layout: sxmBase
          <img src="{{ site.url }}/image/sx/ls8.jpg"/>         
        </a>
        <p class="name">小红柿子</p>
-       <p class="group">￥6元/500g</p>
+       <p class="group">￥5元/500g</p>
      </div>
      <div>
        <a href="">
@@ -74,7 +74,7 @@ layout: sxmBase
          <img src="{{ site.url }}/image/sx/ls10.jpg"/>         
        </a>
        <p class="name">小旱黄瓜</p>
-       <p class="group">￥8元/500g</p>
+       <p class="group">￥7元/500g</p>
       </div>
      <div>
        <a href="">
@@ -95,7 +95,7 @@ layout: sxmBase
          <img src="{{ site.url }}/image/sx/ls13.jpg"/>         
        </a>
        <p class="name">紫茄</p>
-       <p class="group">￥4元/500g</p>
+       <p class="group">￥5元/500g</p>
      </div>
      <div>
        <a href="">
@@ -123,14 +123,14 @@ layout: sxmBase
          <img src="{{ site.url }}/image/sx/ls17.jpg"/>         
        </a>
        <p class="name">大番茄</p>
-       <p class="group">￥7元/500g</p>
+       <p class="group">￥6元/500g</p>
      </div>
      <div>
        <a href="">
          <img src="{{ site.url }}/image/sx/ls18.jpg"/>         
        </a>
        <p class="name">云豆(架豆王)</p>
-       <p class="group">￥8元/500g</p>
+       <p class="group">￥7元/500g</p>
      </div>
      <div>
        <a href="">

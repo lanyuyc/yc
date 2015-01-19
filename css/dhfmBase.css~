@@ -124,10 +124,16 @@ footer {
 #bei {
   float: left;
   margin-left: 80px;
-  margin-top:  22px;
+  margin-top: 22px;
   height: 60px;
 }
 
+.tel {
+  float: left;
+  margin-left: 40px;
+  margin-top: 22px;
+  height: 60px;
+}
 
 .name {
   margin-top: 18px;
